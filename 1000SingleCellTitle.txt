@@ -1,0 +1,1070 @@
+Classification of fusiform neocortical interneurons based on unsupervised clustering
+Combinatorial Receptor Codes for Odors
+Single-Cell Transcriptional Analysis of Neuronal Progenitors
+"Cortical Sources of CRF, NKB, and CCK and Their Effects on Pyramidal Cells in the Neocortex"
+An improved single-cell cDNA amplification method for efficient high-density oligonucleotide microarray analysis
+Extensive Overlap of Mu-Opioid and Nicotinic Sensitivity in Cortical Interneurons
+Method for single-cell microarray analysis and application to gene-expression profiling of GABAergic neuron progenitors
+Modelling and measuring single cell RNA expression levels find considerable transcriptional differences among phenotypically identical cells
+Classification of NPY-Expressing Neocortical Interneurons
+mRNA-Seq whole-transcriptome analysis of a single cell
+Transcriptome transfer produces a predictable cellular phenotype
+Resolution of Cell Fate Decisions Revealed by Single-Cell Gene Expression Analysis from Zygote to Blastocyst
+Tracing the Derivation of Embryonic Stem Cells from the Inner Cell Mass by Single-Cell RNA-Seq Analysis
+Characterization of the single-cell transcriptional landscape by highly multiplex RNA-seq
+Deterministic and Stochastic Allele Specific Gene Expression in Single Mouse Blastomeres
+Full-length mRNA-Seq from single-cell levels of RNA and individual circulating tumor cells
+A simple and novel method for RNA-seq library preparation of single cell cDNA analysis by hyperactive Tn5 transposase
+CEL-Seq: Single-Cell RNA-Seq by Multiplexed Linear Amplification
+"Quartz-Seq: a highly reproducible and sensitive single-cell RNA sequencing method, reveals non-genetic gene-expression heterogeneity"
+Single-cell transcriptomics reveals bimodality in expression and splicing in immune cells
+A tripartite transcription factor network regulates primordial germ cell specification in mice
+Genetic programs in human and mouse early embryos revealed by single-cell RNA sequencing
+Single-cell RNA-Seq profiling of human preimplantation embryos and embryonic stem cells
+Smart-seq2 for sensitive full-length transcriptome profiling in single cells
+Accounting for technical noise in single-cell RNA-seq experiments
+Quantitative assessment of single-cell RNA-sequencing methods
+RNA-sequencing from single nuclei
+From single-cell to cell-pool transcriptomes: Stochasticity in gene expression and RNA splicing
+Quantitative single-cell RNA-seq with unique molecular identifiers
+"Single-Cell RNA-Seq Reveals Dynamic, Random Monoallelic Gene Expression in Mammalian Cells"
+Massively Parallel Single-Cell RNA-Seq for Marker-Free Decomposition of Tissues into Cell Types
+Characterization of directed differentiation by high-throughput single-cell RNA-Seq
+The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells
+Reconstructing lineage hierarchies of the distal lung epithelium using single-cell RNA-seq
+Microfluidic single-cell whole-transcriptome sequencing
+Single-Cell RNA Sequencing Reveals T Helper Cells Synthesizing Steroids De Novo to Contribute to Immune Homeostasis
+Single-cell RNA-seq reveals dynamic paracrine control of cellular variation
+Single-cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma
+Single cell dissection of early kidney development: multilineage priming
+Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex
+"Population and single-cell genomics reveal theAiredependency, relief from Polycomb silencing, and distribution of self-antigen expression in thymic epithelia"
+Single-Cell RNA Sequencing Identifies Extracellular Matrix Gene Expression by Pancreatic Circulating Tumor Cells
+Unbiased classification of sensory neuron types by large-scale single-cell RNA sequencing
+A secretagogin locus of the mammalian hypothalamus controls stress hormone release
+Deconstructing transcriptional heterogeneity in pluripotent stem cells
+"Cortical fast-spiking parvalbumin interneurons enwrapped in the perineuronal net express the metallopeptidases Adamts8, Adamts15 and Neprilysin"
+Single-Cell Transcriptome Analysis Reveals Dynamic Changes in lncRNA Expression during Reprogramming
+Computational analysis of cell-to-cell heterogeneity in single-cell RNA-sequencing data reveals hidden subpopulations of cells
+Integrated genome and transcriptome sequencing of the same cell
+Quantification of cell identity from single-cell gene expression profiles
+Combinatorial labeling of single cells for gene expression cytometry
+Sexual Cell-Fate Reprogramming in the Ovary by DMRT1
+Cell types in the mouse cortex and hippocampus revealed by single-cell RNA-seq
+SC3-seq: a method for highly parallel and quantitative measurement of single-cell gene expression
+Single Mammalian Cells Compensate for Differences in Cellular Volume and DNA Copy Number through Independent Global Transcriptional Mechanisms
+Spatial reconstruction of single-cell gene expression data
+High-throughput spatial mapping of single-cell RNA-seq data to tissue of origin
+A survey of human brain transcriptome diversity at the single cell level
+Droplet Barcoding for Single-Cell Transcriptomics Applied to Embryonic Stem Cells
+Highly Parallel Genome-wide Expression Profiling of Individual Cells Using Nanoliter Droplets
+Combined Single-Cell Functional and Gene Expression Analysis Resolves Heterogeneity within Stem Cell Populations
+High-Throughput Single-Cell Labeling (Hi-SCL) for RNA-Seq Using Drop-Based Microfluidics
+Single-cell polyadenylation site mapping reveals 3' isoform choice variability
+The Transcriptome and DNA Methylome Landscapes of Human Primordial Germ Cells
+Identification of cDC1- and cDC2-committed DC progenitors reveals early lineage priming at the common DC progenitor stage in the bone marrow
+Single-cell mRNA sequencing identifies subclonal heterogeneity in anti-cancer drug responses of lung adenocarcinoma cells
+Deep sequencing reveals cell-type-specific patterns of single-cell transcriptome variation
+Scalable microfluidics for single-cell RNA printing and sequencing
+Evaluation and validation of a robust single cell RNA-amplification protocol through transcriptional profiling of enriched lung cancer initiating cells
+‘LungGENS’: a web-based tool for mapping single-cell gene expression in the developing lung: Figure 1
+Computational assignment of cell-cycle stage from single-cell transcriptome data
+Single-cell RNA-seq transcriptome analysis of linear and circular RNAs in mouse preimplantation embryos
+Single-Cell Transcriptomics Reveals a Population of Dormant Neural Stem Cells that Become Activated upon Brain Injury
+Single-cell transcriptome analysis reveals coordinated ectopic gene-expression patterns in medullary thymic epithelial cells
+Aire controls gene expression in the thymic epithelium with ordered stochasticity
+Single-cell messenger RNA sequencing reveals rare intestinal cell types
+Single-Cell RNA-Seq with Waterfall Reveals Molecular Cascades underlying Adult Neurogenesis
+Oscope identifies oscillatory genes in unsynchronized single-cell RNA-seq experiments
+Single-cell transcriptomic reconstruction reveals cell cycle and multi-lineage differentiation defects in Bcl11a-deficient hematopoietic stem cells
+Pathogen Cell-to-Cell Variability Drives Heterogeneity in Host Immune Responses
+Genome-wide Maps of Nuclear Lamina Interactions in Single Human Cells
+RNA-Seq of single prostate CTCs implicates noncanonical Wnt signaling in antiandrogen resistance
+Molecular Identity of Human Outer Radial Glia during Cortical Development
+Single Cell RNA-Sequencing of Pluripotent States Unlocks Modular Transcriptional Variation
+Single-cell RNA-seq reveals changes in cell cycle and differentiation programs upon aging of hematopoietic stem cells
+Intrinsic Age-Dependent Changes and Cell-Cell Contacts Regulate Nephron Progenitor Lifespan
+Single-cell RNA-Seq resolves cellular complexity in sensory organs from the neonatal inner ear
+Inhibition of DYRK1A and GSK3B induces human β-cell proliferation
+Full-length single-cell RNA-seq applied to a viral human cancer: applications to HPV expression and splicing analysis in HeLa S3 cells
+Single-cell transcriptomics reveals receptor transformations during olfactory neurogenesis
+Single-Cell Genomics Unveils Critical Regulators of Th17 Cell Pathogenicity
+Transcriptional Heterogeneity and Lineage Commitment in Myeloid Progenitors
+A Generic and Cell-Type-Specific Wound Response Precedes Regeneration in Planarians
+Human cerebral organoids recapitulate gene expression programs of fetal neocortex development
+Integration of electrophysiological recordings with single-cell RNA-seq data identifies neuronal subtypes
+Single‐cell transcriptomes reveal characteristic features of human pancreatic islet cell types
+Somatosensory neuron types identified by high-coverage single-cell RNA-sequencing and functional heterogeneity
+Adult mouse cortical cell taxonomy revealed by single cell transcriptomics
+A microfluidic platform enabling single-cell RNA-seq of multigenerational lineages
+Parallel single-cell sequencing links transcriptional and epigenetic heterogeneity
+Serum-Based Culture Conditions Provoke Gene Expression Variability in Mouse Embryonic Stem Cells as Revealed by Single-Cell Analysis
+Single-Cell RNA-Sequencing Reveals a Continuous Spectrum of Differentiation in Hematopoietic Cells
+Linking the T cell receptor to the single cell transcriptome in antigen-specific human T cells
+The heterogeneity of human CD127+ innate lymphoid cells revealed by single-cell RNA sequencing
+"Single-cell triple omics sequencing reveals genetic, epigenetic, and transcriptomic heterogeneity in hepatocellular carcinomas"
+T cell fate and clonality inference from single-cell transcriptomes
+Use of the Fluidigm C1 platform for RNA sequencing of single mouse pancreatic islet cells
+Spatial Transcriptome for the Molecular Annotation of Lineage Fates and Cell Identity in Mid-gastrula Mouse Embryo
+Single-cell RNA sequencing reveals molecular and functional platelet bias of aged haematopoietic stem cells
+Heterogeneity in Oct4 and Sox2 Targets Biases Cell Fate in 4-Cell Mouse Embryos
+"DNMT3A Haploinsufficiency Transforms FLT3ITD Myeloproliferative Disease into a Rapid, Spontaneous, and Fully Penetrant Acute Myeloid Leukemia"
+Dissecting the multicellular ecosystem of metastatic melanoma by single-cell RNA-seq
+Single-Cell RNA-Seq Reveals Lineage and X Chromosome Dynamics in Human Preimplantation Embryos
+Two FGFRL-Wnt circuits organize the planarian anteroposterior axis
+Single-cell analysis of long non-coding RNAs in the developing human neocortex
+Innate-like functions of natural killer T cell subsets result from highly divergent gene programs
+Nuclear RNA-seq of single neurons reveals molecular signatures of activation
+Single-cell RNA-seq reveals cell type-specific transcriptional signatures at the maternal–foetal interface during pregnancy
+Application of single-cell RNA sequencing in optimizing a combinatorial therapeutic strategy in metastatic renal cell carcinoma
+Single-cell analysis of CD4+ T-cell differentiation reveals three major cell states and progressive acceleration of proliferation
+Tracing haematopoietic stem cell formation at single-cell resolution
+Root Regeneration Triggers an Embryo-like Sequence Guided by Hormonal Interactions
+Dissecting direct reprogramming from fibroblast to neuron using single-cell RNA-seq
+Identification of key factors conquering developmental arrest of somatic cell cloned embryos by combining embryo biopsy and single-cell sequencing
+Oligodendrocyte heterogeneity in the mouse juvenile and adult central nervous system
+Neuronal subtypes and diversity revealed by single-nucleus RNA sequencing of the human brain
+Microglia development follows a stepwise program to regulate brain homeostasis
+A single-cell resolution map of mouse hematopoietic stem and progenitor cell differentiation
+Single-Cell Transcriptomics of the Human Endocrine Pancreas
+Cellular Taxonomy of the Mouse Striatum as Revealed by Single-Cell RNA-Seq
+Single-Cell RNAseq Reveals That Pancreatic β-Cells From Very Old Male Mice Have a Young Gene Signature
+Div-Seq: Single-nucleus RNA-Seq reveals dynamics of rare adult newborn neurons
+Single-cell RNAseq reveals cell adhesion molecule profiles in electrophysiologically defined neurons
+Single-cell RNA-seq reveals novel regulators of human embryonic stem cell differentiation to definitive endoderm
+A Transcriptional Lineage of the Early C. elegans Embryo
+The Spectrum and Regulatory Landscape of Intestinal Innate Lymphoid Cells Are Shaped by the Microbiome
+HER2 expression identifies dynamic functional states within circulating breast cancer cells
+Comprehensive Classification of Retinal Bipolar Neurons by Single-Cell Transcriptomics
+Single-cell analysis of mixed-lineage states leading to a binary cell fate choice
+Multiparametric profiling of non–small-cell lung cancers reveals distinct immunophenotypes
+A Distinct Gene Module for Dysfunction Uncoupled from Activation in Tumor-Infiltrating T Cells
+Single-Cell Transcriptomics Reveals that Differentiation and Spatial Signatures Shape Epidermal and Hair Follicle Heterogeneity
+"Multiplexed, targeted profiling of single-cell proteomes and transcriptomes in a single reaction"
+A Single-Cell Transcriptomic Map of the Human and Mouse Pancreas Reveals Inter- and Intra-cell Population Structure
+Single-Cell Transcriptome Profiling of Human Pancreatic Islets in Health and Type 2 Diabetes
+RNA Sequencing of Single Human Islet Cells Reveals Type 2 Diabetes Genes
+Protein C receptor (PROCR) is a negative regulator of Th17 pathogenicity
+Analysis of allelic expression patterns in clonal somatic cells by single-cell RNA–seq
+An Automated Microwell Platform for Large-Scale Single Cell RNA-Seq
+Single-cell RNA-seq identifies a PD-1hi ILC progenitor and defines its development pathway
+A Single-Cell Transcriptome Atlas of the Human Pancreas
+"Molecular Diversity of Midbrain Development in Mouse, Human, and Stem Cells"
+Massive and parallel expression profiling using microarrayed single-cell sequencing
+Progressive alterations in multipotent hematopoietic progenitors underlie lymphoid cell loss in aging
+In Situ Transcription Profiling of Single Cells Reveals Spatial Organization of Cells in the Mouse Hippocampus
+Single-Cell Analysis Reveals a Close Relationship between Differentiating Dopamine and Subthalamic Nucleus Neuronal Lineages
+Opposing Development of Cytotoxic and Follicular Helper CD4 T Cells Controlled by the TCF-1-Bcl6 Nexus
+Single-cell RNA-seq supports a developmental hierarchy in human oligodendroglioma
+Single-cell RNA-seq ties macrophage polarization to growth rate of intracellular Salmonella
+Human dendritic cells (DCs) are derived from distinct circulating precursors that are precommitted to become CD1c+ or CD141+ DCs
+Single-cell transcriptomes identify human islet cell signatures and reveal cell-type–specific expression changes in type 2 diabetes
+Single cell transcriptomics reveals unanticipated features of early hematopoietic precursors
+Single‐cell sequencing maps gene expression to mutational phylogenies in PDGF ‐ and EGF ‐driven gliomas
+"Characterization of Rare, Dormant, and Therapy-Resistant Cells in Acute Lymphoblastic Leukemia"
+Deletion of the Polycomb-Group Protein EZH2 Leads to Compromised Self-Renewal and Differentiation Defects in Human Embryonic Stem Cells
+Partial exhaustion of CD8 T cells and clinical response to teplizumab in new-onset type 1 diabetes
+A Multiplexed Single-Cell CRISPR Screening Platform Enables Systematic Dissection of the Unfolded Protein Response
+Dissecting Immune Circuits by Linking CRISPR-Pooled Screens with Single-Cell RNA-Seq
+Perturb-Seq: Dissecting Molecular Circuits with Scalable Single-Cell RNA Profiling of Pooled Genetic Screens
+Molecular interrogation of hypothalamic organization reveals distinct dopamine neuronal subtypes
+Engineered Murine HSCs Reconstitute Multi-lineage Hematopoiesis and Adaptive Immunity
+Intrinsic transcriptional heterogeneity in B cells controls early class switching to IgE
+Batch effects and the effective design of single-cell gene expression studies
+The nature and nurture of cell heterogeneity: accounting for macrophage gene-environment interactions with single-cell RNA-Seq
+Single-cell transcriptome analysis of fish immune cells provides insight into the evolution of vertebrate immune cell types
+Massively parallel digital transcriptional profiling of single cells
+Single-Cell Transcriptomic Analysis Defines Heterogeneity and Transcriptional Dynamics in the Adult Neural Stem Cell Lineage
+Primary Cell Culture of Live Neurosurgically Resected Aged Adult Human Brain Cells and Single Cell Transcriptomics
+Pooled CRISPR screening with single-cell transcriptome readout
+A molecular census of arcuate hypothalamus and median eminence cell types
+"Seq-Well: portable, low-cost RNA sequencing of single cells at high throughput"
+Early transcriptional and epigenetic regulation of CD8+ T cell differentiation revealed by single-cell RNA sequencing
+Single-cell transcriptome conservation in cryopreserved cells and tissues
+Single-cell RNA-seq and computational analysis using temporal mixture modeling resolves TH1/TFHfate bifurcation in malaria
+Spatiotemporal genomic architecture informs precision oncology in glioblastoma
+Mex3a Marks a Slowly Dividing Subpopulation of Lgr5+ Intestinal Stem Cells
+Reference component analysis of single-cell transcriptomes elucidates cellular heterogeneity in human colorectal tumors
+Human haematopoietic stem cell lineage commitment is a continuous process
+Myeloid progenitor cluster formation drives emergency and leukaemic myelopoiesis
+Single-Cell RNA-Seq Reveals Hypothalamic Cell Diversity
+Aging increases cell-to-cell transcriptional variability upon immune stimulation
+"Decoupling genetics, lineages, and microenvironment in IDH-mutant gliomas by single-cell RNA-seq"
+Genetically Distinct Parallel Pathways in the Entopeduncular Nucleus for Limbic and Sensorimotor Output of the Basal Ganglia
+Measuring Signaling and RNA-Seq in the Same Cell Links Gene Expression to Dynamic Patterns of NF-κB Activation
+Epithelial-Mesenchymal Micro-niches Govern Stem Cell Lineage Choices
+Synergistic Immunostimulatory Effects and Therapeutic Benefit of Combined Histone Deacetylase and Bromodomain Inhibition in Non–Small Cell Lung Cancer
+"Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors"
+Cell diversity and network dynamics in photosensitive human brain organoids
+Single-Cell RNA-Seq Analysis Maps Development of Human Germline Cells and Gonadal Niche Interactions
+Single-cell topological RNA-seq analysis reveals insights into cellular differentiation and development
+Pseudotemporal Ordering of Single Cells Reveals Metabolic Control of Postnatal β Cell Proliferation
+Deciphering Pancreatic Islet β Cell and α Cell Maturation Pathways and Characteristic Features at the Single-Cell Level
+Non-equivalence of Wnt and R-spondin ligands during Lgr5+ intestinal stem-cell self-renewal
+Single cell RNA sequencing to dissect the molecular heterogeneity in lupus nephritis
+Innate Immune Landscape in Early Lung Adenocarcinoma by Paired Single-Cell Analyses
+Single-cell RNA-seq enables comprehensive tumour and immune cell profiling in primary breast cancer
+Deconstructing Olfactory Stem Cell Trajectories at Single-Cell Resolution
+Haematopoietic stem and progenitor cells from human pluripotent stem cells
+Lineage-dependent spatial and functional organization of the mammalian enteric nervous system
+Cell fixation and preservation for droplet-based single-cell transcriptomics
+Single-Cell RNA Sequencing Reveals Expanded Clones of Islet Antigen-Reactive CD4+ T Cells in Peripheral Blood of Subjects with Type 1 Diabetes
+Sperm cells are passive cargo of the pollen tube in plant fertilization
+A Unique Microglia Type Associated with Restricting Development of Alzheimer’s Disease
+Generation of Single-Cell Transcript Variability by Repression
+Landscape of Infiltrating T Cells in Liver Cancer Revealed by Single-Cell Sequencing
+IFNγ-Dependent Tissue-Immune Homeostasis Is Co-opted in the Tumor Microenvironment
+"IL-6/Stat3-Dependent Induction of a Distinct, Obesity-Associated NK Cell Subpopulation Deteriorates Energy and Glucose Homeostasis"
+Tumor Evolution of Glioma-Intrinsic Gene Expression Subtypes Associates with Immunological Changes in the Microenvironment
+Single-Cell Landscape of Transcriptional Heterogeneity and Cell Fate Decisions during Mouse Early Gastrulation
+Single cardiomyocyte nuclear transcriptomes reveal a lincRNA-regulated de-differentiation and cell cycle stress-response in vivo
+Comprehensive single-cell transcriptional profiling of a multicellular organism
+Massively parallel single-nucleus RNA-seq with DroNc-seq
+Multiplexed quantification of proteins and transcripts in single cells
+Haploinsufficiency for DNA methyltransferase 3A predisposes hematopoietic cells to myeloid malignancies
+Dissecting hematopoietic and renal cell heterogeneity in adult zebrafish at single-cell resolution using RNA sequencing
+Anatomically and Functionally Distinct Lung Mesenchymal Populations Marked by Lgr5 and Lgr6
+The neuropeptide NMU amplifies ILC2-driven allergic lung inflammation
+Transcriptional Architecture of Synaptic Communication Delineates GABAergic Neuron Identity
+Single-cell RNA sequencing reveals a signature of sexual commitment in malaria parasites
+Single-cell sequencing reveals dissociation-induced gene expression in tissue subpopulations
+Impact of sequencing depth and read length on single cell RNA sequencing data of T cells
+Mouse embryonic stem cells can differentiate via multiple paths to the same state
+Chromatin and Single-Cell RNA-Seq Profiling Reveal Dynamic Signaling and Metabolic Transitions during Human Spermatogonial Stem Cell Development
+Temporal Tracking of Microglia Activation in Neurodegeneration at Single-Cell Resolution
+Detecting Activated Cell Populations Using Single-Cell RNA-Seq
+Single-Cell RNA-Seq Analysis of Infiltrating Neoplastic Cells at the Migrating Front of Human Glioblastoma
+A single-cell survey of the small intestinal epithelium
+IL-11 is a crucial determinant of cardiovascular fibrosis
+Construction of developmental lineage relationships in the mouse mammary gland by single-cell RNA profiling
+Unsupervised Trajectory Analysis of Single-Cell RNA-Seq and Imaging Data Reveals Alternative Tuft Cell Origins in the Gut
+Classifying Drosophila Olfactory Projection Neuron Subtypes by Single-Cell RNA Sequencing
+STRT-seq-2i: dual-index 5ʹ single cell and nucleus RNA-seq on an addressable microwell array
+Single-cell analysis reveals the continuum of human lympho-myeloid progenitor cells
+"Correlating Anatomy and Function with Gene Expression in Individual Neurons by Combining in Vivo Labeling, Patch Clamp, and Single Cell RNA-seq"
+Single-Cell Transcriptomic Analysis of Primary and Metastatic Tumor Ecosystems in Head and Neck Cancer
+YY1 Is a Structural Regulator of Enhancer-Promoter Loops
+Dissecting Cell-Type Composition and Activity-Dependent Transcriptional State in Mammalian Brains by Massively Parallel Single-Nucleus RNA-Seq
+Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex
+Differentiation dynamics of mammary epithelial cells revealed by single-cell RNA sequencing
+Single-cell analysis of experience-dependent transcriptomic states in the mouse visual cortex
+Molecular and functional variation in iPSC-derived sensory neurons
+Integrative single-cell analysis of transcriptional and epigenetic states in the human adult brain
+Multiplexed droplet single-cell RNA-sequencing using natural genetic variation
+A Single-Cell RNA Sequencing Study Reveals Cellular and Molecular Dynamics of the Hippocampal Neurogenic Niche
+Defining murine organogenesis at single-cell resolution reveals a role for the leukotriene pathway in regulating blood progenitor formation
+Single-cell profiling of human gliomas reveals macrophage ontogeny as a basis for regional differences in macrophage activation in the tumor microenvironment
+Comprehensive Cell Type Specific Transcriptomics of the Human Kidney
+Developmental Emergence of Adult Neural Stem Cells as Revealed by Single-Cell Transcriptional Profiling
+"Variation in Activity State, Axonal Projection, and Position Define the Transcriptional Identity of Individual Neocortical Projection Neurons"
+Single-cell analysis reveals cancer stem cell heterogeneity in hepatocellular carcinoma
+Conserved properties of dentate gyrus neurogenesis across postnatal development revealed by single-cell RNA sequencing
+Defining the earliest step of cardiovascular lineage segregation by single-cell RNA-seq
+"A Reproducibility-Based Computational Framework Identifies an Inducible, Enhanced Antiviral State in Dendritic Cells from HIV-1 Elite Controllers"
+Single-Cell Transcriptional Profiling Reveals Cellular Diversity and Intercommunication in the Mouse Heart
+Graded Arrays of Spinal and Supraspinal V2a Interneuron Subtypes Underlie Forelimb and Hindlimb Motor Control
+Single-cell gene expression reveals a landscape of regulatory T cell phenotypes shaped by the TCR
+Deciphering Cell Lineage Specification during Male Sex Determination with Single-Cell RNA Sequencing
+Regulatory Architecture of the LβT2 Gonadotrope Cell Underlying the Response to Gonadotropin-Releasing Hormone
+Single cell RNA sequencing of stem cell-derived retinal ganglion cells
+A molecular atlas of cell types and zonation in the brain vasculature
+Rare Cell Detection by Single-Cell RNA Sequencing as Guided by Single-Molecule RNA FISH
+Conserved and Divergent Features of Mesenchymal Progenitor Cell Types within the Cortical Nephrogenic Niche of the Human and Mouse Kidney
+Extreme heterogeneity of influenza virus infection in single cells
+scNMT-seq enables joint profiling of chromatin accessibility DNA methylation and transcription in single cells
+Functionally distinct disease-associated fibroblast subsets in rheumatoid arthritis
+Single-cell RNA-seq of rheumatoid arthritis synovial tissue using low-cost microfluidic instrumentation
+Cell atlas of human uterus
+Massively Parallel Single Nucleus Transcriptional Profiling Defines Spinal Cord Neurons and Their Activity during Behavior
+Long-Term Correction of Diabetes in Mice by In Vivo Reprogramming of Pancreatic Ducts
+Early emergence of cortical interneuron diversity in the mouse embryo
+Mapping the Mouse Cell Atlas by Microwell-Seq
+Single-Cell RNA-Seq of Mouse Dopaminergic Neurons Informs Candidate Gene Selection for Sporadic Parkinson Disease
+Developmental diversification of cortical inhibitory interneurons
+Quartz-Seq2: a high-throughput single-cell RNA-sequencing method that effectively uses limited sequence reads
+A single-cell RNA-seq survey of the developmental landscape of the human prefrontal cortex
+Single-cell RNA-seq analysis unveils a prevalent epithelial/mesenchymal hybrid state during mouse organogenesis
+Single-Cell RNA-Seq Reveals the Transcriptional Landscape and Heterogeneity of Aortic Macrophages in Murine Atherosclerosis
+Single-cell profiling of the developing mouse brain and spinal cord with split-pool barcoding
+Single-cell transcriptomics reveals a new dynamical function of transcription factors during embryonic hematopoiesis
+Comprehensive Identification and Spatial Mapping of Habenular Neuronal Types Using Single-Cell RNA-Seq
+Reduced Abd-B Hox function during kidney development results in lineage infidelity
+Single-cell RNA-seq reveals hidden transcriptional variation in malaria parasites
+Whole-organism clone tracing using single-cell sequencing
+A single-cell hematopoietic landscape resolves 8 lineage trajectories and defects in Kit mutant mice
+Simultaneous single-cell profiling of lineages and cell types in the vertebrate brain
+Heterogeneity of Human Breast Stem and Progenitor Cells as Revealed by Transcriptional Profiling
+Single-cell RNA sequencing identifies celltype-specific cis-eQTLs and co-expression QTLs
+Rainbow-seq: combining cell lineage tracking with single-cell RNA sequencing in preimplantation embryos
+Molecular and Physiological Diversity of Cortical Nonpyramidal Cells
+A comprehensive map coupling histone modifications with gene regulation in adult dopaminergic and serotonergic neurons
+B-cell receptor reconstruction from single-cell RNA-seq with VDJPuzzle
+Single-cell transcriptomics of the mouse kidney reveals potential cellular targets of kidney disease
+Simultaneous lineage tracing and cell-type identification using CRISPR–Cas9-induced genetic scars
+Myoepithelial Cells of Submucosal Glands Can Function as Reserve Stem Cells to Regenerate Airways after Injury
+Effects of 3D culturing conditions on the transcriptomic profile of stem-cell-derived neurons
+Single-Cell Microarray Analysis in Hippocampus CA1: Demonstration and Validation of Cellular Heterogeneity
+Single-Cell RNA-seq Reveals a Subpopulation of Cells Underlying β Cell Expansion in the Postnatal Islets
+Cell type atlas and lineage tree of a whole complex animal by single-cell transcriptomics
+Cell type transcriptome atlas for the planarianSchmidtea mediterranea
+Neuronal atlas of the dorsal horn defines its architecture and links sensory input to transcriptional cell types
+Integrated Single-Cell Analysis Maps the Continuous Regulatory Landscape of Human Hematopoietic Differentiation
+HMGB2 Loss upon Senescence Entry Disrupts Genomic Organization and Induces CTCF Clustering across Cell Types
+Single-cell mapping of gene expression landscapes and lineage in the zebrafish embryo
+The dynamics of gene expression in vertebrate embryogenesis at single-cell resolution
+Single-cell reconstruction of developmental trajectories during zebrafish embryogenesis
+"Evolution of pallium, hippocampus, and cortical cell types revealed by single-cell transcriptomics in reptiles"
+Single-Cell Transcriptomics and Fate Mapping of Ependymal Cells Reveals an Absence of Neural Stem Cell Function
+Peripheral PDGFRα+gp38+ mesenchymal cells support the differentiation of fetal liver–derived ILC2
+Developmental and oncogenic programs in H3K27M gliomas dissected by single-cell RNA-seq
+Single-Cell RNA Sequencing of Lymph Node Stromal Cells Reveals Niche-Associated Heterogeneity
+"The Polycomb-Dependent Epigenome Controls β Cell Dysfunction, Dedifferentiation, and Diabetes"
+Single-cell RNA-seq of human induced pluripotent stem cells reveals cellular heterogeneity and cell state transitions between subpopulations
+Mapping the physical network of cellular interactions
+Combining NGN2 Programming with Developmental Patterning Generates Human Excitatory Neurons with NMDAR-Mediated Synaptic Transmission
+Monocyte-derived IL-1 and IL-6 are differentially required for cytokine-release syndrome and neurotoxicity due to CAR T cells
+UMI-count modeling and differential expression analysis for single-cell RNA sequencing
+Cnidarian Cell Type Diversity and Regulation Revealed by Whole-Organism Single-Cell RNA-Seq
+Spatial transcriptomic survey of human embryonic cerebral cortex by single-cell RNA-seq analysis
+Harnessing single-cell genomics to improve the physiological fidelity of organoid-derived cell types
+A Single-Cell Transcriptomic Atlas of Thymus Organogenesis Resolves Cell Types and Developmental Maturation
+Linking transcriptional and genetic tumor heterogeneity through allele analysis of single-cell RNA-seq data
+Dissection of progenitor compartments resolves developmental trajectories in B-lymphopoiesis
+A stromal cell population that inhibits adipogenesis in mammalian fat depots
+Classes and continua of hippocampal CA1 inhibitory neurons revealed by single-cell transcriptomics
+Phenotypic Convergence: Distinct Transcription Factors Regulate Common Terminal Features
+A Single-Cell Transcriptome Atlas of the Aging Drosophila Brain
+dropEst: pipeline for accurate estimation of molecular counts in droplet-based single-cell RNA-seq experiments
+Single-Cell RNA-Seq Reveals Dynamic Early Embryonic-like Programs during Chemical Reprogramming
+Three-dimensional intact-tissue sequencing of single-cell transcriptional states
+Pseudotime Ordering of Single Human β-Cells Reveals States of Insulin Production and Unfolded Protein Response
+Single-Cell Map of Diverse Immune Phenotypes in the Breast Tumor Microenvironment
+Nested oscillatory dynamics in cortical organoids model early human brain network development
+Detection of HPV E7 Transcription at Single-Cell Resolution in Epidermis
+Single-Cell Transcriptomics of a Human Kidney Allograft Biopsy Specimen Defines a Diverse Inflammatory Response
+Large-Scale Single-Cell RNA-Seq Reveals Molecular Signatures of Heterogeneous Populations of Human Induced Pluripotent Stem Cell-Derived Endothelial Cells
+Identification of dynamic undifferentiated cell states within the male germline
+T cell cytolytic capacity is independent of initial stimulation strength
+Single-cell mapping of the thymic stroma identifies IL-25-producing tuft epithelial cells
+Enteroendocrine cells switch hormone expression along the crypt-to-villus BMP signalling gradient
+Single-cell RNA-seq analysis reveals the progression of human osteoarthritis
+Single-cell RNA-seq reveals the diversity of trophoblast subtypes and patterns of differentiation in the human placenta 
+Single-cell transcriptome analysis of lineage diversity in high-grade glioma
+A single-cell atlas of human glioblastoma reveals a single axis of phenotype in tumor-propagating cells
+Single-cell RNA-seq uncovers dynamic processes and critical regulators in mouse spermatogenesis
+A revised airway epithelial hierarchy includes CFTR-expressing ionocytes
+A single-cell atlas of the airway epithelium reveals the CFTR-rich pulmonary ionocyte
+High-resolution transcriptional dissection of in vivo Atoh1-mediated hair cell conversion in mature cochleae identifies Isl1 as a co-reprogramming factor
+Shared evolutionary origin of vertebrate neural crest and cranial placodes
+Sensory Neuron Diversity in the Inner Ear Is Shaped by Activity
+Single-Cell Transcriptomes Distinguish Stem Cell State Changes and Lineage Specification Programs in Early Mammary Gland Development
+RNA velocity of single cells
+Genetic and transcriptional evolution alters cancer cell line drug response
+Molecular Architecture of the Mouse Nervous System
+Molecular Diversity and Specializations among the Cells of the Adult Mouse Brain
+Large-Scale Human Dendritic Cell Differentiation Revealing Notch-Dependent Lineage Bifurcation and Heterogeneity
+Allergic inflammatory memory in human respiratory epithelial progenitor cells
+CCR10+ epithelial cells from idiopathic pulmonary fibrosis lungs drive remodeling
+Unravelling subclonal heterogeneity and aggressive disease states in TNBC through single-cell RNA-seq
+Self-Maintaining Gut Macrophages Are Essential for Intestinal Homeostasis
+Joint profiling of chromatin accessibility and gene expression in thousands of single cells
+Pdgfra marks a cellular lineage with distinct contributions to myofibroblasts in lung maturation and injury response
+Distinct antiviral signatures revealed by the magnitude and round of influenza virus replication in vivo
+Aligning Single-Cell Developmental and Reprogramming Trajectories Identifies Molecular Determinants of Myogenic Reprogramming Outcome
+Neuronal heterogeneity and stereotyped connectivity in the auditory afferent system
+Single‐cell transcriptomics reveals distinct inflammation‐induced microglia signatures
+Targeting individual cells by barcode in pooled sequence libraries
+A Single-Cell Transcriptional Atlas of the Developing Murine Cerebellum
+Single Cell and Open Chromatin Analysis Reveals Molecular Origin of Epidermal Cells of the Skin
+Induced pluripotent stem cell–based mapping of β-globin expression throughout human erythropoietic development
+Single-cell RNA-seq reveals dynamic transcriptome profiling in human early neural differentiation
+Regulatory cocktail for dopaminergic neurons in a protovertebrate identified by whole-embryo single-cell transcriptomics
+Single cell molecular alterations reveal target cells and pathways of concussive brain injury
+Neonatally imprinted stromal cell subsets induce tolerogenic dendritic cells in mesenteric lymph nodes
+Transcriptomic but not genomic variability confers phenotype of breast cancer stem cells
+Single-cell RNA sequencing reveals microglia-like cells in cerebrospinal fluid during virologically suppressed HIV
+Lineage dynamics of murine pancreatic development at single-cell resolution
+Single-nucleus transcriptomic survey of cell diversity and functional maturation in postnatal mammalian hearts
+Single-Cell RNA-Seq Uncovers a Robust Transcriptional Response to Morphine by Glia
+Metabolic regulation of pluripotency and germ cell fate through α‐ketoglutarate
+Structural Remodeling of the Human Colonic Mesenchyme in Inflammatory Bowel Disease
+Single-cell analysis uncovers convergence of cell identities during axolotl limb regeneration
+Single Cell RNA Sequencing Identifies HSPG2 and APLNR as Markers of Endothelial Cell Injury in Systemic Sclerosis Skin
+A spatial atlas of inhibitory cell types in mouse hippocampus
+Single-cell transcriptomics of 20 mouse organs creates a Tabula Muris
+Kinetics of adult hematopoietic stem cell differentiation in vivo
+Lung Single-Cell Signaling Interaction Map Reveals Basophil Role in Macrophage Imprinting
+The adult human testis transcriptional cell atlas
+Single cell RNA sequencing of human liver reveals distinct intrahepatic macrophage populations
+The Lineage-Defining Transcription Factors SOX2 and NKX2-1 Determine Lung Cancer Cell Fate and Shape the Tumor Immune Microenvironment
+Single-Cell Transcriptomics of Traced Epidermal and Hair Follicle Stem Cells Reveals Rapid Adaptations during Wound Healing
+High-Dimensional Analysis Delineates Myeloid and Lymphoid Compartment Remodeling during Successful Immune-Checkpoint Cancer Therapy
+Cardiomyocyte gene programs encoding morphological and functional signatures in cardiac hypertrophy and failure
+Spatial organization of the somatosensory cortex revealed by osmFISH
+Cell type-specific role of lamin-B1 and its inflammation-driven reduction in organ building and aging
+Single-cell RNA-seq reveals that glioblastoma recapitulates normal brain development
+Single-cell RNA sequencing of the mammalian pineal gland identifies two pinealocyte subtypes and cell type-specific daily patterns of gene expression
+Gene expression variability across cells and species shapes innate immunity
+Transcriptional Programming of Normal and Inflamed Human Epidermis at Single-Cell Resolution
+Expansion and differentiation of human hepatocyte-derived liver progenitor-like cells and their use for the study of hepatotropic pathogens
+Human retinoic acid–regulated CD161+ regulatory T cells support wound repair in intestinal mucosa
+Shared and distinct transcriptomic cell types across neocortical areas
+Disease-relevant transcriptional signatures identified in individual smooth muscle cells from healthy mouse vessels
+Single-cell transcriptome profiling of the Ciona larval brain
+Disease-specific oligodendrocyte lineage cells arise in multiple sclerosis
+Single-Cell Analysis Identifies Thymic Maturation Delay in Growth-Restricted Neonatal Mice
+T Helper Cell Cytokines Modulate Intestinal Stem Cell Renewal and Differentiation
+A Cancer Cell Program Promotes T Cell Exclusion and Resistance to Checkpoint Blockade
+Defining T Cell States Associated with Response to Checkpoint Immunotherapy in Melanoma
+"Molecular, spatial, and functional single-cell profiling of the hypothalamic preoptic region"
+Single-Cell RNA Sequencing of Blood and Ileal T Cells From Patients With Crohn's Disease Reveals Tissue-Specific Characteristics and Drug Targets
+Analysis of Single-Cell RNA-Seq Identifies Cell-Cell Communication Associated with Tumor Characteristics
+"The Mammalian Spermatogenesis Single-Cell Transcriptome, from Spermatogonial Stem Cells to Spermatids"
+Single-cell RNA-Seq analysis identifies a noncodinginterleukin 4(IL-4) RNA that post-transcriptionally up-regulates IL-4 production in T helper cells
+Single-cell reconstruction of the early maternal–fetal interface in humans
+"Single cell transcriptome analysis of human, marmoset and mouse embryos reveals common and divergent features of preimplantation development"
+Single-cell RNA sequencing reveals a dynamic stromal niche within the evolving tumour microenvironment
+Mapping Cellular Reprogramming via Pooled Overexpression Screens with Paired Fitness and Single-Cell RNA-Sequencing Readout
+Machine learning based classification of cells into chronological stages using single-cell transcriptomics
+Hedgehog stimulates hair follicle neogenesis by creating inductive dermis during murine skin wound healing
+Comparative Analysis and Refinement of Human PSC-Derived Kidney Organoid Differentiation with Single-Cell Transcriptomics
+Longitudinal single-cell RNA sequencing of patient-derived primary cells reveals drug-induced infidelity in stem cell hierarchy
+Single-cell transcriptional analysis reveals ILC-like cells in zebrafish
+"Single-Cell Transcriptome Analysis Reveals Estrogen Signaling Coordinately Augments One-Carbon, Polyamine, and Purine Synthesis in Breast Cancer"
+Single cell RNA-sequencing identifies a metabolic aspect of apoptosis in Rbf mutant
+Single-Cell RNA Sequencing of Microglia throughout the Mouse Lifespan and in the Injured Brain Reveals Complex Cell-State Changes
+Comparative Analysis of Droplet-Based Ultra-High-Throughput Single-Cell RNA-Seq Systems
+KDM5 Histone Demethylase Activity Links Cellular Transcriptomic Heterogeneity to Therapeutic Resistance
+"Quantitative Clonal Analysis and Single-Cell Transcriptomics Reveal Division Kinetics, Hierarchy, and Fate of Oral Epithelial Progenitor Cells"
+Single-cell RNA sequencing unveils an IL-10-producing helper subset that sustains humoral immunity during persistent infection
+Single-Cell Transcriptomics Characterizes Cell Types in the Subventricular Zone and Uncovers Molecular Defects Impairing Adult Neurogenesis
+Spatially and functionally distinct subclasses of breast cancer-associated fibroblasts revealed by single cell RNA sequencing
+Transcriptomic landscape of the blastema niche in regenerating adult axolotl limbs at single-cell resolution
+Single-Cell Sequencing of iPSC-Dopamine Neurons Reconstructs Disease Progression and Identifies HDAC4 as a Regulator of Parkinson Cell Phenotypes
+Advantages of Single-Nucleus over Single-Cell RNA Sequencing of Adult Kidney: Rare Cell Types and Novel Cell States Revealed in Fibrosis
+Single-cell mapping of lineage and identity in direct reprogramming
+Cooperative Transcription Factor Induction Mediates Hemogenic Reprogramming
+Single-Cell RNA-Seq of Mouse Olfactory Bulb Reveals Cellular Heterogeneity and Activity-Dependent Molecular Census of Adult-Born Neurons
+"Human bone marrow assessment by single-cell RNA sequencing, mass cytometry, and flow cytometry"
+Simultaneous multiplexed amplicon sequencing and transcriptome profiling in single cells
+Single-Cell Transcriptome Profiling of Mouse and hESC-Derived Pancreatic Progenitors
+Deconstructing Retinal Organoids: Single Cell RNA-Seq Reveals the Cellular Components of Human Pluripotent Stem Cell-Derived Retina
+High-affinity allergen-specific human antibodies cloned from single IgE B cell transcriptomes
+NFIL3 mutations alter immune homeostasis and sensitise for arthritis pathology
+Single-Cell Transcriptomic Analysis of Human Lung Provides Insights into the Pathobiology of Pulmonary Fibrosis
+Molecular and functional heterogeneity of IL-10-producing CD4+ T cells
+A Cellular Anatomy of the Normal Adult Human Prostate and Prostatic Urethra
+Cell Hashing with barcoded antibodies enables multiplexing and doublet detection for single cell genomics
+Metabolic heterogeneity underlies reciprocal fates of TH17 cell stemness and plasticity
+Identification of Embryonic Neural Plate Border Stem Cells and Their Generation by Direct Reprogramming from Adult Human Blood Cells
+Genomic encoding of transcriptional burst kinetics
+Single-Cell Analysis Reveals a Hair Follicle Dermal Niche Molecular Differentiation Trajectory that Begins Prior to Morphogenesis
+Dermal Condensate Niche Fate Specification Occurs Prior to Formation and Is Placode Progenitor Dependent
+Single-cell RNA-Seq of follicular lymphoma reveals malignant B-cell types and coexpression of T-cell immune checkpoints
+Single-cell transcriptomes reveal molecular specializations of neuronal cell types in the developing cerebellum
+Molecular signatures of multiple myeloma progression through single cell RNA-Seq
+Reference-based analysis of lung single-cell sequencing reveals a transitional profibrotic macrophage
+Single-cell transcriptomic analysis of mouse neocortical development
+Neurog3-Independent Methylation Is the Earliest Detectable Mark Distinguishing Pancreatic Progenitor Identity
+Single-Cell Analysis of Regional Differences in Adult V-SVZ Neural Stem Cell Lineages
+The Emergence and Functional Fitness of Memory CD4+ T Cells Require the Transcription Factor Thpok
+Maturing Human CD127+ CCR7+ PDL1+ Dendritic Cells Express AIRE in the Absence of Tissue Restricted Antigens
+Memory CD4+ T cells are generated in the human fetal intestine
+Two distinct colonic CD14+ subsets characterized by single-cell RNA profiling in Crohn’s disease
+Altered human oligodendrocyte heterogeneity in multiple sclerosis
+Transcriptional Heterogeneity in Naive and Primed Human Pluripotent Stem Cells at Single-Cell Resolution
+Single-cell profiling identifies myeloid cell subsets with distinct fates during neuroinflammation
+Molecular Classification and Comparative Taxonomics of Foveal and Peripheral Cells in Primate Retina
+Self-reporting transposons enable simultaneous readout of gene expression and transcription factor binding in single cells
+Single-cell RNA sequencing reveals midbrain dopamine neuron diversity emerging during mouse brain development
+Single-cell imaging and RNA sequencing reveal patterns of gene expression heterogeneity during fission yeast growth and adaptation
+Sensitive high-throughput single-cell RNA-seq reveals within-clonal transcript correlations in yeast populations
+Single-Cell Transcriptomics of Regulatory T Cells Reveals Trajectories of Tissue Adaptation
+Cxcr3-expressing leukocytes are necessary for neurofibroma formation in mice
+Specification of diverse cell types during early neurogenesis of the mouse cerebellum
+Single-cell analysis reveals fibroblast heterogeneity and myeloid-derived adipocyte progenitors in murine skin wounds
+Unravelling Intratumoral Heterogeneity through High-Sensitivity Single-Cell Mutational Analysis and Parallel RNA Sequencing
+Single-Cell Transcriptome Analysis Maps the Developmental Track of the Human Heart
+Resolving Cell Fate Decisions during Somatic Cell Reprogramming by Single-Cell RNA-Seq
+The transcription factor Duxbl mediates elimination of pre-T cells that fail β-selection
+Barcoding reveals complex clonal behavior in patient-derived xenografts of metastatic triple negative breast cancer
+Spatial and temporal heterogeneity of mouse and human microglia at single-cell resolution
+"Human CD8+ T cell cross-reactivity across influenza A, B and C viruses"
+Biologically indeterminate yet ordered promiscuous gene expression in single medullary thymic epithelial cells
+"Single-cell analysis of fate-mapped macrophages reveals heterogeneity, including stem-like properties, during atherosclerosis progression and regression"
+A single-cell molecular map of mouse gastrulation and early organogenesis
+The single-cell transcriptional landscape of mammalian organogenesis
+Diabetes relief in mice by glucose-sensing insulin-secreting human α-cells
+Maturation of heart valve cell populations during postnatal remodeling
+Targeted Elimination of Senescent Beta Cells Prevents Type 1 Diabetes
+An atlas of the aging lung mapped by single cell transcriptomics and deep tissue proteomics
+Colonic epithelial cell diversity in health and inflammatory bowel disease
+Single-Cell RNA-Seq Reveals AML Hierarchies Relevant to Disease Progression and Immunity
+Quiescence Modulates Stem Cell Maintenance and Regenerative Capacity in the Aging Brain
+Lineage Tracing in Humans Enabled by Mitochondrial Mutations and Single-Cell Genomics
+A lineage-resolved molecular atlas of C. elegans embryogenesis at single cell resolution
+Microglial Function Is Distinct in Different Anatomical Locations during Retinal Homeostasis and Degeneration
+Optimal-Transport Analysis of Single-Cell Gene Expression Identifies Developmental Trajectories in Reprogramming
+Single cell transcriptomics reveals spatial and temporal dynamics of gene expression in the developing mouse spinal cord
+Single-Cell RNA Profiling of Glomerular Cells Shows Dynamic Changes in Experimental Diabetic Kidney Disease
+Defining the Activated Fibroblast Population in Lung Fibrosis Using Single-Cell Sequencing
+Generation and persistence of human tissue-resident memory T cells in lung transplantation
+Single-cell transcriptomic analysis of the lateral hypothalamic area reveals molecularly distinct populations of inhibitory and excitatory neurons
+Single-Cell Heterogeneity Analysis and CRISPR Screen Identify Key β-Cell-Specific Disease Genes
+Insights into the Biology of Hearing and Deafness Revealed by Single-Cell RNA Sequencing
+Noninvasive ultrasound stimulation of the spleen to treat inflammatory arthritis
+"Single cell RNA-seq study of wild type and Hox9,10,11 mutant developing uterus"
+Defining developmental diversification of diencephalon neurons through single cell gene expression profiling
+Two distinct interstitial macrophage populations coexist across tissues in specific subtissular niches
+Dissecting Cell Lineage Specification and Sex Fate Determination in Gonadal Somatic Cells Using Single-Cell Transcriptomics
+Single cell analysis of adult mouse skeletal muscle stem cells in homeostatic and regenerative conditions
+Transition state dynamics during a stochastic fate choice
+Dynamic transcriptome profiles within spermatogonial and spermatocyte populations during postnatal testis maturation revealed by single-cell sequencing
+Transcriptome-scale super-resolved imaging in tissues by RNA seqFISH+
+"Single-cell expression profiling reveals dynamic flux of cardiac stromal, vascular and immune cells in health and injury"
+A Subset of Type I Conventional Dendritic Cells Controls Cutaneous Bacterial Infections through VEGFα-Mediated Recruitment of Neutrophils
+Single-cell transcriptomics reveals multiple neuronal cell types in human midbrain-specific organoids
+Slide-seq: A scalable technology for measuring genome-wide expression at high spatial resolution
+Functional genomics of CDHR3 confirms its role in HRV-C infection and childhood asthma exacerbations
+Adaptive plasticity of IL-10+ and IL-35+ Treg cells cooperatively promotes tumor T cell exhaustion
+Xenotransplantation of Human PSC-derived Microglia Creates a Chimeric Mouse Brain Model that Recapitulates Features of Adult Human Microglia
+Modeling Spatial Correlation of Transcripts with Application to Developing Pancreas
+Chromatin mapping and single-cell immune profiling define the temporal dynamics of ibrutinib drug response in chronic lymphocytic leukemia
+Single-cell transcriptomics of the naked mole-rat reveals unexpected features of mammalian immunity
+Single-cell RNA sequencing identifies inflammatory tissue T cells in eosinophilic esophagitis
+The emergent landscape of the mouse gut endoderm at single-cell resolution
+Single-Cell Transcriptomics of Human and Mouse Lung Cancers Reveals Conserved Myeloid Populations across Individuals and Species
+The bone marrow microenvironment at single-cell resolution
+Single-Cell Transcriptomics Uncovers Glial Progenitor Diversity and Cell Fate Determinants during Development and Gliomagenesis
+Single cell transcriptome analysis reveals markers of naïve and lineage-primed hematopoietic progenitors derived from human pluripotent stem cells
+Single cell RNA-sequencing identified Dec2 as a suppressive factor for spermatogonial differentiation by inhibiting Sohlh1 expression
+Staged developmental mapping and X chromosome transcriptional dynamics during mouse spermatogenesis
+Discovery and characterization of variance QTLs in human induced pluripotent stem cells
+Ethanol Exposure Increases miR‐140 in Extracellular Vesicles: Implications for Fetal Neural Stem Cell Proliferation and Maturation
+"Multiplexed detection of proteins, transcriptomes, clonotypes and CRISPR perturbations in single cells"
+Direct Comparative Analysis of 10X Genomics Chromium and Smart-seq2
+Single-Cell Transcriptomics Analyses of Neural Stem Cell Heterogeneity and Contextual Plasticity in a Zebrafish Brain Model of Amyloid Toxicity
+"The Major Risk Factors for Alzheimer’s Disease: Age, Sex, and Genes Modulate the Microglia Response to Aβ Plaques"
+Self-organization and symmetry breaking in intestinal organoid development
+Single-cell transcriptomes of the regenerating intestine reveal a revival stem cell
+Single-cell transcriptome analyses reveal novel targets modulating cardiac neovascularization by resident endothelial cells following myocardial infarction
+Single cell RNA-seq reveals cellular diversity and developmental characteristics of human infant retina
+Identification of a mesenchymal progenitor cell hierarchy in adipose tissue
+Transcriptional programs define intratumoral heterogeneity of Ewing sarcoma at single cell resolution
+Childhood cerebellar tumours mirror conserved fetal transcriptional programs
+Single-cell transcriptomic analysis of Alzheimer’s disease
+A Spatiomolecular Map of the Striatum
+Single-Cell Virus Sequencing of Influenza Infections That Trigger Innate Immunity
+Single-cell RNAseq uncovers involution mimicry as an aberrant development pathway during breast cancer metastasis
+A cellular and spatial map of the choroid plexus across brain ventricles and ages
+Single cell transcriptomics reveals opioid usage evokes widespread suppression of antiviral genes
+Transcriptomic evidence that von Economo neurons are regionally specialized extratelencephalic-projecting excitatory neurons
+Molecular characterization of foveal versus peripheral human retina by single-cell RNA sequencing
+A Temporal Transcriptional Map of Human Natural Killer Cell Differentiation
+Heterogeneous disease-propagating stem cells in juvenile myelomonocytic leukemia
+HBEGF+ macrophages in rheumatoid arthritis induce fibroblast invasiveness
+Charting cellular identity during human in vitro β-cell differentiation
+Dissecting the Single-Cell Transcriptome Network Underlying Gastric Premalignant Lesions and Early Gastric Cancer
+A single-cell atlas of mouse brain macrophages reveals unique transcriptional identities shaped by ontogeny and tissue environment
+Defining inflammatory cell states in rheumatoid arthritis joint synovial tissues by integrating single-cell transcriptomics and mass cytometry
+Temporal patterning of apical progenitors and their daughter neurons in the developing neocortex
+Single-Cell RNA-Sequencing Identifies Activation of TP53 and STAT1 Pathways in Human T Lymphocyte Subpopulations in Response to Ex Vivo Radiation Exposure
+Transcriptional dynamics of pluripotent stem cell-derived endothelial cell differentiation revealed by single-cell RNA sequencing
+Hydro-Seq enables contamination-free high-throughput single-cell RNA-sequencing for circulating tumor cells
+Epigenetic evolution and lineage histories of chronic lymphocytic leukaemia
+Single-cell genomics identifies cell type–specific molecular changes in autism
+Identification of a regeneration-organizing cell in the Xenopus tail
+MARS-seq2.0: an experimental and analytical pipeline for indexed sorting combined with single-cell RNA sequencing
+Single-cell Transcriptome Mapping Identifies Common and Cell-type Specific Genes Affected by Acute Delta9-tetrahydrocannabinol in Humans
+Tubular cell and keratinocyte single-cell transcriptomics applied to lupus nephritis reveal type I IFN and fibrosis relevant pathways
+Single-cell RNA-seq analysis reveals the crucial role of Collagen Triplex Helix Repeat Containing 1 (CTHRC1) cardiac fibroblasts for ventricular remodeling after myocardial infarction
+Single-cell analyses reveal aberrant pathways for megakaryocyte-biased hematopoiesis in myelofibrosis and identify mutant clone-specific targets
+An Atlas of Vagal Sensory Neurons and Their Molecular Specialization
+The molecular anatomy of mammalian upper lip and primary palate fusion at single cell resolution
+Single cell analysis of the developing mouse kidney provides deeper insight into marker gene expression and ligand-receptor crosstalk
+Single-Cell RNA-Seq Analysis of Retinal Development Identifies NFI Factors as Regulating Mitotic Exit and Late-Born Cell Specification
+Polychromic Reporter Mice Reveal Unappreciated Innate Lymphoid Cell Progenitor Heterogeneity and Elusive ILC3 Progenitors in Bone Marrow
+A Cellular Taxonomy of the Bone Marrow Stroma in Homeostasis and Leukemia
+A cellular atlas of the developing meninges reveals meningeal fibroblast diversity and function
+Identification of two distinct pathways of human myelopoiesis
+Benchmarking single cell RNA-sequencing analysis pipelines using mixture control experiments
+Fate mapping via Ms4a3 expression history traces monocyte-derived cells
+Single-Cell Transcriptional Profiling of Aortic Endothelium Identifies a Hierarchy from Endovascular Progenitors to Differentiated Cells
+Thyroid hormone regulates distinct paths to maturation in pigment cell lineages
+Single cell expression analysis reveals anatomical and cell cycle-dependent transcriptional shifts during heart development
+Distinct fibroblast subsets drive inflammation and damage in arthritis
+Single-Cell Analysis of the Normal Mouse Aorta Reveals Functionally Distinct Endothelial Cell Populations
+Neuro-mesodermal progenitors (NMPs): a comparative study between pluripotent stem cells and embryo-derived populations
+High-throughput single-cell ChIP-seq identifies heterogeneity of chromatin states in breast cancer
+A comprehensive single cell transcriptional landscape of human hematopoietic progenitors
+A single-cell transcriptional roadmap for cardiopharyngeal fate diversification
+A transcriptomic roadmap to α- and β-cell differentiation in the embryonic pancreas
+Comprehensive single cell mRNA profiling reveals a detailed roadmap for pancreatic endocrinogenesis
+A rule-based data-informed cellular consensus map of the human mononuclear phagocyte cell space
+Individual brain organoids reproducibly form cell diversity of the human cerebral cortex
+Single cell RNA-Seq analysis identifies molecular mechanisms controlling hypothalamic patterning and differentiation
+Single-Cell Multi-omic Integration Compares and Contrasts Features of Brain Cell Identity
+Spatiotemporal structure of cell fate decisions in murine neural crest
+Cell-Intrinsic Wnt4 Influences Conventional Dendritic Cell Fate Determination to Suppress Type 2 Immunity
+Mitochondrial dysfunction and endoplasmic reticulum stress involved in oocyte aging: an analysis using single-cell RNA-sequencing of mouse oocytes
+Spatiotemporal analysis reveals significant overlap of key proepicardial markers in the developing murine heart
+A Subset of Skin Macrophages Contributes to the Surveillance and Regeneration of Local Nerves
+Characterizing the temporal dynamics of gene expression in single cells with sci-fate
+Migrant memory B cells secrete luminal antibody in the vagina
+Cross-Species Single-Cell Analysis of Pancreatic Ductal Adenocarcinoma Reveals Antigen-Presenting Cancer-Associated Fibroblasts
+Regulatory T-cells regulate neonatal heart regeneration by potentiating cardiomyocyte proliferation in a paracrine manner
+Single cell RNA‐seq in the sea urchin embryo show marked cell‐type specificity in the Delta/Notch pathway
+A cellular atlas of Pitx2-dependent cardiac development
+Simultaneous quantification of protein–DNA contacts and transcriptomes in single cells
+The immune cell landscape in kidneys of patients with lupus nephritis
+Single-cell RNA-seq reveals TOX as a key regulator of CD8+ T cell persistence in chronic infection
+Subsets of ILC3−ILC1-like cells generate a diversity spectrum of innate lymphoid cells in human mucosal tissues
+A cellular census of human lungs identifies novel cell states in health and in asthma
+MULTI-seq: sample multiplexing for single-cell RNA sequencing using lipid-tagged indices
+Sensory lesioning induces microglial synapse elimination via ADAM10 and fractalkine signaling
+Single-Cell Transcriptomics Identifies the Adaptation of Scart1+ Vγ6+ T Cells to Skin Residency as Activated Effector Cells
+Identification of dicarbonyl and L-xylulose reductase as a therapeutic target in human chronic kidney disease
+Single-cell based elucidation of molecularly-distinct glioblastoma states and drug sensitivity
+Atlas of Subcellular RNA Localization Revealed by APEX-Seq
+Single-Cell RNA Sequencing of the T Helper Cell Response to House Dust Mites Defines a Distinct Gene Expression Signature in Airway Th2 Cells
+An Atlas of Immune Cell Exhaustion in HIV-Infected Individuals Revealed by Single-Cell Transcriptomics
+Unified single-cell analysis of testis gene regulation and pathology in five mouse strains
+Single-Cell RNA-Seq Reveals Developmental Origins and Ontogenetic Stability of Neurexin Alternative Splicing Profiles
+Developmental kinetics and transcriptome dynamics of stem cell specification in the spermatogenic lineage
+Neutrophils Driving Unconventional T Cells Mediate Resistance against Murine Sarcomas and Selected Human Tumors
+Lipid-Associated Macrophages Control Metabolic Homeostasis in a Trem2-Dependent Manner
+Dissociation of solid tumour tissues with cold active protease for single-cell RNA-seq minimizes conserved collagenase-associated stress responses
+Obesity remodels activity and transcriptional state of a lateral hypothalamic brake on feeding
+Single-cell analysis of childhood leukemia reveals a link between developmental states and ribosomal protein expression as a source of intra-individual heterogeneity
+Proteomics and single-cell RNA analysis of Akap4-knockout mice model confirm indispensable role of Akap4 in spermatogenesis
+Identification of Genes With Enriched Expression in Early Developing Mouse Cone Photoreceptors
+Single-cell RNA sequencing reveals mRNA splice isoform switching during kidney development
+A hierarchy of migratory keratinocytes maintains the tympanic membrane
+"Highly Efficient, Massively-Parallel Single-Cell RNA-Seq Reveals Cellular States and Molecular Features of Human Skin Pathology"
+Testis single-cell RNA-seq reveals the dynamics of de novo gene transcription and germline mutational bias in Drosophila
+An optimised tissue disaggregation and data processing pipeline for characterising fibroblast phenotypes using single-cell RNA sequencing
+Single-cell analysis reveals T cell infiltration in old neurogenic niches
+Somatic mutations and cell identity linked by Genotyping of Transcriptomes
+Single-cell RNA-seq highlights intra-tumoral heterogeneity and malignant progression in pancreatic ductal adenocarcinoma
+Linking transcriptome and chromatin accessibility in nanoliter droplets for single-cell sequencing
+A Single-Cell Immune Atlas of Triple Negative Breast Cancer Reveals Novel Immune Cell Subsets
+Transcriptomic Profiling of the Developing Cardiac Conduction System at Single-Cell Resolution
+Mapping Distinct Bone Marrow Niche Populations and Their Differentiation Paths
+IL ‐7‐dependent compositional changes within the γδ T cell pool in lymph nodes during ageing lead to an unbalanced anti‐tumour response
+Evaluation of single-cell classifiers for single-cell RNA sequencing data sets
+scSLAM-seq reveals core features of transcription dynamics in single cells
+A human liver cell atlas reveals heterogeneity and epithelial progenitors
+Comprehensive single-cell transcriptome lineages of a proto-vertebrate
+A Single-Cell Transcriptomic Atlas of Human Neocortical Development during Mid-gestation
+High-throughput targeted long-read single cell sequencing reveals the clonal and transcriptional landscape of lymphocytes
+Early Detection of Peripheral Blood Cell Signature in Children Developing Beta-Cell Autoimmunity at a Young Age
+TNF-alpha driven inflammation and mitochondrial dysfunction define the platelet hyperreactivity of aging
+CellSIUS provides sensitive and specific detection of rare cell populations from complex single-cell RNA-seq data
+Longitudinal single cell transcriptomics reveals Krt8+ alveolar epithelial progenitors in lung regeneration
+Neuronal vulnerability and multilineage diversity in multiple sclerosis
+"An Integrative Model of Cellular States, Plasticity, and Genetics for Glioblastoma"
+DMSO cryopreservation is the method of choice to preserve cells for droplet-based single-cell RNA sequencing
+Treg Cells Promote the SREBP1-Dependent Metabolic Fitness of Tumor-Promoting Macrophages via Repression of CD8+ T Cell-Derived Interferon-γ
+Cellular heterogeneity during mouse pancreatic ductal adenocarcinoma progression at single-cell resolution
+Deep single-cell RNA sequencing data of individual T cells from treatment-naïve colorectal cancer patients
+Single-cell analysis of cardiogenesis reveals basis for organ-level developmental defects
+Resolving medulloblastoma cellular architecture by single-cell genomics
+Intra- and Inter-cellular Rewiring of the Human Colon during Ulcerative Colitis
+Stem cell differentiation trajectories in Hydra resolved at single-cell resolution
+On the discovery of population-specific state transitions from multi-sample multi-condition single-cell RNA sequencing data
+Single-cell gene regulatory network analysis reveals new melanoma cell states and transition trajectories during phenotype switching
+Bayesian Correlation is a robust similarity measure for single cell RNA-seq data
+Atheroprotective roles of smooth muscle cell phenotypic modulation and the TCF21 disease gene as revealed by single-cell analysis
+Clonal replacement of tumor-specific T cells following PD-1 blockade
+A validated single-cell-based strategy to identify diagnostic and therapeutic targets in complex diseases
+Gene expression atlas of a developing tissue by single cell expression correlation analysis
+Single-Cell RNA-Seq of the Developing Cardiac Outflow Tract Reveals Convergent Development of the Vascular Smooth Muscle Cells
+Modeling Monogenic Diabetes using Human ESCs Reveals Developmental and Metabolic Deficiencies Caused by Mutations in HNF1A
+Single cell transcriptome atlas of immune cells in human small intestine and in celiac disease
+Locally renewing resident synovial macrophages provide a protective barrier for the joint
+Single-Cell Survey of Human Lymphatics Unveils Marked Endothelial Cell Heterogeneity and Mechanisms of Homing for Neutrophils
+A single-nuclei RNA sequencing study of Mendelian and sporadic AD in the human brain
+Comparing transcriptional dynamics of the epithelial-mesenchymal transition
+Single nucleus RNA sequencing maps acinar cell states in a human pancreas cell atlas
+Single-cell RNA-seq identifies a reversible mesodermal activation in abnormally specified epithelia of p63 EEC syndrome
+Distinct Molecular Trajectories Converge to Induce Naive Pluripotency
+Single cell transcriptome analysis of developing arcuate nucleus neurons uncovers their key developmental regulators
+Mitogenic and progenitor gene programmes in single pilocytic astrocytoma cells
+Sandwich cortical lamination and single-cell analysis decodes the developing spatial processing system.
+Development of the Mouse and Human Cochlea at Single Cell Resolution
+Conserved cell types with divergent features in human versus mouse cortex
+A single-cell transcriptomics CRISPR-activation screen identifies new epigenetic regulators of zygotic genome activation
+Aging promotes reorganization of the CD4 T cell landscape toward extreme regulatory and effector phenotypes
+A single‐cell transcriptome atlas of the adult human retina
+B1 oligomerization regulates PML nuclear body biogenesis and leukemogenesis
+Ketone Body Signaling Mediates Intestinal Stem Cell Homeostasis and Adaptation to Diet
+A single cell transcriptome atlas of the developing zebrafish hindbrain
+A molecular cell atlas of the human lung from single cell RNA sequencing
+Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+Combined mRNA and protein single cell analysis in a dynamic cellular system using SPARC
+Redefining the Etiologic Landscape of Cerebellar Malformations
+Single-Cell Analysis of Crohn’s Disease Lesions Identifies a Pathogenic Cellular Module Associated with Resistance to Anti-TNF Therapy
+The molecular anatomy of mouse skin during hair growth and rest
+Single cell transcriptome analysis reveals an essential role for Gata2b in hematopoietic lineage decisions in zebrafish
+Single-cell transcriptomics reveals multi-step adaptations to endocrine therapy
+Heterogeneity of human bone marrow and blood natural killer cells defined by single-cell transcriptome
+A pooled single-cell genetic screen identifies regulatory checkpoints in the continuum of the epithelial-to-mesenchymal transition
+A large pool of actively cycling progenitors orchestrates self-renewal and injury repair of an ectodermal appendage
+Single-cell transcriptomics identifies an effectorness gradient shaping the response of CD4+ T cells to cytokines
+High-Throughput Single-Cell Sequencing with Linear Amplification
+Profiling cellular diversity in sponges informs animal cell type and nervous system evolution
+Single-cell transcriptomic landscape of cardiac neural crest cell derivatives during embryonic and neonatal development
+Single-cell RNA-sequencing reveals profibrotic roles of distinct epithelial and mesenchymal lineages in pulmonary fibrosis
+Probabilistic cell-type assignment of single-cell RNA-seq for tumor microenvironment profiling
+High-definition spatial transcriptomics for in situ tissue profiling
+Spatial transcriptome profiling by MERFISH reveals subcellular RNA compartmentalization and cell cycle-dependent gene expression
+The single-cell transcriptomic landscape of early human diabetic nephropathy
+"Single-cell-resolution transcriptome map of human, chimpanzee, bonobo, and macaque brains"
+Single-cell profiling and SCOPE-seq reveal the lineage dynamics of adult neurogenesis and NOTUM as a key V-SVZ regulator
+Aging-associated alterations in the mammary gland revealed by single-cell RNA sequencing
+Single-cell atlas of major haematopoietic tissues sheds light on blood cell formation from embryonic endothelium
+Single-cell transcriptomic profiling of the aging mouse brain
+Novel dynamics of human mucociliary differentiation revealed by single-cell RNA sequencing of nasal epithelial cultures
+Spatiotemporal immune zonation of the human kidney
+Single-cell time-series mapping of cell fate trajectories reveals an expanded developmental potential for human PSC-derived distal lung progenitors
+Single‐cell RNA sequencing reveals chemokine self‐feeding of myeloma cells promotes extramedullary metastasis
+High-Spatial-Resolution Multi-Omics Atlas Sequencing of Mouse Embryos via Deterministic Barcoding in Tissue
+Cell Type Purification by Single-Cell Transcriptome-Trained Sorting
+Locally instructed CXCR4hi neutrophils trigger environment-driven allergic asthma through the release of neutrophil extracellular traps
+In vivo Perturb-Seq reveals neuronal and glial abnormalities associated with Autism risk genes
+Resolving the fibrotic niche of human liver cirrhosis at single-cell level
+Decoding human fetal liver haematopoiesis
+Resolving cellular systems by ultra-sensitive and economical single-cell transcriptome filtering
+Apoptotic Cell Exclusion and Bias‐Free Single‐Cell Selection Are Important Quality Control Requirements for Successful Single‐Cell Sequencing Applications
+Molecular heterogeneity unravelled by single‐cell transcriptomics in patients with essential thrombocythaemia
+Transcriptional Atlas of Intestinal Immune Cells Reveals that Neuropeptide α-CGRP Modulates Group 2 Innate Lymphoid Cell Responses
+A single-cell transcriptome atlas of the adult muscle precursors uncovers early events in fiber-type divergence in Drosophila
+Single-Cell Analysis Reveals Regulatory Gene Expression Dynamics Leading to Lineage Commitment in Early T Cell Development
+Single-cell analysis of bone marrow–derived CD34+ cells from children with sickle cell disease and thalassemia
+Organoid single-cell genomic atlas uncovers human-specific features of brain development
+Single-cell transcriptomics of human T cells reveals tissue and activation signatures in health and disease
+Multimodal Analysis of Cell Types in a Hypothalamic Node Controlling Social Behavior
+Single-Cell RNA-Seq Reveals Endocardial Defect in Hypoplastic Left Heart Syndrome
+Single-Cell Sequencing Reveals the Relationship between Phenotypes and Genotypes of Klinefelter Syndrome
+Single-Cell RNA-seq Identifies Cell Diversity in Embryonic Salivary Glands
+Transcriptional Basis of Mouse and Human Dendritic Cell Heterogeneity
+The microbiota regulate neuronal function and fear extinction learning
+Single cell study of neural stem cells derived from human iPSCs reveal distinct progenitor populations with neurogenic and gliogenic potential
+Single-cell transcriptomic atlas of the human retina identifies cell types associated with age-related macular degeneration
+Single-cell RNA-sequencing of herpes simplex virus 1-infected cells connects NRF2 activation to an antiviral program
+A portable and cost-effective microfluidic system for massively parallel single-cell transcriptome profiling
+Single cell transcriptomic analysis revealed long-lasting adverse effects of prenatal tamoxifen administration on neurogenesis in prenatal and adult brains
+Single-cell transcriptomics of the human retinal pigment epithelium and choroid in health and macular degeneration
+Single-Cell Transcriptomics Uncovers Zonation of Function in the Mesenchyme during Liver Fibrosis
+Single-cell transcriptomics reveals expansion of cytotoxic CD4 T cells in supercentenarians
+Emergence of neuronal diversity during vertebrate brain development
+Early Transcriptional Landscapes of Chlamydia trachomatis-Infected Epithelial Cells at Single Cell Resolution
+TCR sequencing paired with massively parallel 3′ RNA-seq reveals clonotypic T cell signatures
+Single-cell transcriptome analysis reveals differential nutrient absorption functions in human intestine
+A single-cell atlas of entorhinal cortex from individuals with Alzheimer’s disease reveals cell-type-specific gene expression regulation
+Single Cell RNA Sequencing Reveals Heterogeneity of Human MSC Chondrogenesis: Lasso Regularized Logistic Regression to Identify Gene and Regulatory Signatures
+Single-Cell Profiles of Retinal Ganglion Cells Differing in Resilience to Injury Reveal Neuroprotective Genes
+Single cell census of human kidney organoids shows reproducibility and diminished off-target cells after transplantation
+Single-cell multiomic analysis identifies regulatory programs in mixed-phenotype acute leukemia
+Single-cell transcriptomics reveals diverse and complex gene expression alterations in human trisomy 18
+Massively multiplex chemical transcriptomics at single-cell resolution
+Multiplexed single-cell profiling of post-perturbation transcriptional responses to define cancer vulnerabilities and therapeutic mechanism of action
+Microbial single-cell RNA sequencing by split-pool barcoding
+Time-series single-cell RNA-seq data reveal auxin fluctuation during endocycle
+Multi-omics profiling of mouse gastrulation at single-cell resolution
+Single-cell transcriptomics from human pancreatic islets: sample preparation matters
+Characterizing smoking-induced transcriptional heterogeneity in the human bronchial epithelium at single-cell resolution
+"Dissecting intratumor heterogeneity of nodal B cell lymphomas on the transcriptional, genetic, and drug response level"
+Single cell transcriptional signatures of the human placenta in term and preterm parturition
+Cross-Species Single-Cell Analysis Reveals Divergence of the Primate Microglia Program
+A Spatiotemporal Organ-Wide Gene Expression and Cell Atlas of the Developing Human Heart
+Ly49R activation receptor drives self-MHC–educated NK cell immunity against cytomegalovirus infection
+Comprehensive analysis of a mouse model of spontaneous uveoretinitis using single-cell RNA sequencing
+Ultra-high throughput single-cell RNA sequencing by combinatorial fluidic indexing
+Latent transcriptional variations of individual Plasmodium falciparum uncovered by single-cell RNA-seq and fluorescence imaging
+Single Cell and Single Nucleus RNA-Seq Reveal Cellular Heterogeneity and Homeostatic Regulatory Networks in Adult Mouse Stria Vascularis
+scRNA-seq in medulloblastoma shows cellular heterogeneity and lineage expansion support resistance to SHH inhibitor therapy
+Social reprogramming in ants induces longevity-associated glia remodeling
+Identification of genomic enhancers through spatial integration of single-cell transcriptomics and epigenomics
+Peripheral nerve resident macrophages are microglia-like cells with tissue-specific programming
+"Massively parallel, time-resolved single-cell RNA sequencing with scNT-Seq"
+A single-cell survey of Drosophila blood
+"Combined single-cell and spatial transcriptomics reveal the molecular, cellular and spatial bone marrow niche organization"
+Highly multiplexed single-cell RNA-seq by DNA oligonucleotide tagging of cellular proteins
+Single-cell analysis of human adipose tissue identifies depot- and disease-specific cell types
+Single-cell RNA-seq analysis identifies meniscus progenitors and reveals the progression of meniscus degeneration
+Cell type prioritization in single-cell data
+A single-cell atlas of the human healthy airways
+A single cell transcriptional atlas of early synovial joint development
+Exploring the changing landscape of cell-to-cell variation after CTCF knockdown via single cell RNA-seq
+The transcriptome dynamics of single cells during the cell cycle
+Characterization of human-iPSCs derived spinal motor neurons by single-cell RNA sequencing
+"scRNA-seq assessment of the human lung, spleen, and esophagus tissue stability after cold preservation"
+Prevention of tuberculosis in macaques after intravenous BCG immunization
+Single-cell RNA sequencing of human kidney
+Single-cell RNA-seq reveals endoimmune cells in zebrafish
+A single-cell transcriptional roadmap of the mouse and human lymph node lymphatic vasculature
+Global Gene Expression Analysis Identifies Age-Related Differences in Knee Joint Transcriptome during the Development of Post-Traumatic Osteoarthritis in Mice
+Erythromyeloid progenitors give rise to a population of osteoclasts that contribute to bone homeostasis and repair
+The landscape of mouse epididymal cells defined by the single-cell RNA-Seq
+Immune Landscape of Viral- and Carcinogen-Driven Head and Neck Cancer
+Precursors for Nonlymphoid-Tissue Treg Cells Reside in Secondary Lymphoid Organs and Are Programmed by the Transcription Factor BATF
+Discovery of peculiar cells in the peri-tumoral regions and peripheral blood of glioblastoma patients by single cell RNA-sequencing
+Nivolumab treatment of relapsed/refractory Epstein-Barr virus–associated hemophagocytic lymphohistiocytosis in adults
+Single-cell RNA-seq unveils critical regulators of human FOXP3+ regulatory T cell stability
+Single-Cell Molecular and Cellular Architecture of the Mouse Neurohypophysis
+Basal-like and Classical cells coexistence in pancreatic cancer revealed by single cell analysis
+Dynamics of human monocytes and airway macrophages during healthy aging and after transplant
+The Dynamic Transcriptional Cell Atlas of Testis Development during Human Puberty
+"Identification of a LIF-Responsive, Replication-Competent Subpopulation of Human β Cells"
+Cell-type specific impact of glucocorticoid receptor activation on the developing brain
+Single-cell mapping reveals new markers and functions of lymphatic endothelial cells in lymph nodes
+A census of cell types and paracrine interactions in colorectal cancer
+Highly Multiplexed Single-Cell Full-Length cDNA Sequencing of human immune cells with 10X Genomics and R2C2
+Single-nucleus RNA sequencing reveals transcriptional changes of hippocampal neurons in APP23 mouse model of Alzheimer’s disease
+Titrating gene expression using libraries of systematically attenuated CRISPR guide RNAs
+Transcription phenotypes of pancreatic cancer are driven by genomic events during tumor evolution
+Human and mouse single-nucleus transcriptomics reveal TREM2-dependent and TREM2-independent cellular responses in Alzheimer’s disease
+An Integrated Gene Expression Landscape Profiling Approach to Identify Lung Tumor Endothelial Cell Heterogeneity and Angiogenic Candidates
+Treatment-Induced Tumor Dormancy through YAP-Mediated Transcriptional Reprogramming of the Apoptotic Pathway
+Integrated single cell analysis of blood and cerebrospinal fluid leukocytes in multiple sclerosis
+Single-cell transcriptional profiles in human skeletal muscle
+Single-cell transcriptome analysis reveals cell-cell communication and thyrocyte diversity in the zebrafish thyroid gland
+Decoding the development of the human hippocampus
+Sampling artifacts in single-cell genomics cohort studies
+Single-cell transcriptome maps of myeloid blood cell lineages in Drosophila
+Self-Organizing 3D Human Trunk Neuromuscular Organoids
+Identification of a Master Regulator of Differentiation in Toxoplasma
+Myocardial B cells are a subset of circulating lymphocytes with delayed transit through the heart
+Surveying Brain Tumor Heterogeneity by Single-Cell RNA Sequencing of Multi-sector Biopsies
+Select autophagy genes maintain quiescence of tissue-resident macrophages and increase susceptibility to Listeria monocytogenes
+Targeted therapy guided by single-cell transcriptomic analysis in drug-induced hypersensitivity syndrome: a case report
+Transcriptional Programming of Human Mechanosensory Neuron Subtypes from Pluripotent Stem Cells
+Single-cell RNAseq analysis of testicular germ and somatic cell development during the perinatal period
+Silencing Trisomy 21 with XIST in Neural Stem Cells Promotes Neuronal Differentiation
+Distinct Airway Epithelial Stem Cells Hide among Club Cells but Mobilize to Promote Alveolar Regeneration
+Single-cell analysis reveals new evolutionary complexity in uveal melanoma
+Multi-omics characterization of a diet-induced obese model of non-alcoholic steatohepatitis
+Pro-efferocytic nanoparticles are specifically taken up by lesional macrophages and prevent atherosclerosis
+Integrated single cell analysis of human lung fibrosis resolves cellular origins of predictive protein signatures in body fluids
+Integration of eQTL and a Single-Cell Atlas in the Human Eye Identifies Causal Genes for Age-Related Macular Degeneration
+Chromatin mapping and single-cell immune profiling define the temporal dynamics of ibrutinib response in CLL
+Single-cell transcriptomics identifies CD44 as a marker and regulator of endothelial to haematopoietic transition
+Single-Nucleus Sequencing of an Entire Mammalian Heart: Cell Type Composition and Velocity
+Cell stress in cortical organoids impairs molecular subtype specification
+Systematic Comparison of High-throughput Single-Cell and Single-Nucleus Transcriptomes during Cardiomyocyte Differentiation
+Genome-wide In Vivo CNS Screening Identifies Genes that Modify CNS Neuronal Survival and mHTT Toxicity
+Reconstructed Single-Cell Fate Trajectories Define Lineage Plasticity Windows during Differentiation of Human PSC-Derived Distal Lung Progenitors
+Adult Human Glioblastomas Harbor Radial Glia-like Cells
+The in vivo genetic program of murine primordial lung epithelial progenitors
+Characterizing Adult Cochlear Supporting Cell Transcriptional Diversity Using Single-Cell RNA-Seq: Validation in the Adult Mouse and Translational Implications for the Adult Human Cochlea
+Clonal competition within complex evolutionary hierarchies shapes AML over time
+Replicational Dilution of H3K27me3 in Mammalian Cells and the Role of Poised Promoters
+Single-cell transcriptome analysis of human skin identifies novel fibroblast subpopulation and enrichment of immune subsets in atopic dermatitis
+The histone demethylase JMJD2B regulates endothelial-to-mesenchymal transition
+Single-cell RNA-sequencing of differentiating iPS cells reveals dynamic genetic effects on gene expression
+The Repertoire of Serous Ovarian Cancer Non-genetic Heterogeneity Revealed by Single-Cell Sequencing of Normal Fallopian Tube Epithelial Cells
+Regenerative lineages and immune-mediated pruning in lung cancer metastasis
+Clonal ZEB1-Driven Mesenchymal Transition Promotes Targetable Oncologic Antiangiogenic Therapy Resistance
+Genetic Variation in Type 1 Diabetes Reconfigures the 3D Chromatin Organization of T Cells and Alters Gene Expression
+Neonatal Rhesus Macaques Have Distinct Immune Cell Transcriptional Profiles following HIV Envelope Immunization
+"Single-Cell Transcriptomic Comparison of Human Fetal Retina, hPSC-Derived Retinal Organoids, and Long-Term Retinal Cultures"
+Molecular taxonomy of human ocular outflow tissues defined by single cell transcriptomics
+Glial cell diversity and methamphetamine-induced neuroinflammation in human cerebral organoids
+CellTagging: combinatorial indexing to simultaneously map lineage and identity at single-cell resolution
+A claustrum in reptiles and its role in slow-wave sleep
+MAFG-driven astrocytes promote CNS inflammation
+Immune cell landscaping reveals a protective role for regulatory T cells during kidney injury and fibrosis
+Characterizing the tumor microenvironment of metastatic ovarian cancer by single cell transcriptomics
+Single cell RNA-seq reveals the landscape of tumor and infiltrating immune cells in nasopharyngeal carcinoma
+A living biobank of ovarian cancer ex vivo models reveals profound mitotic heterogeneity
+Epithelial Vegfa Specifies a Distinct Endothelial Population in the Mouse Lung
+Single-Cell Transcriptome Atlas of Murine Endothelial Cells
+Comparative single-cell RNA sequencing (scRNA-seq) reveals liver metastasis–specific targets in a patient with small intestinal neuroendocrine cancer
+No detectable alloreactive transcriptional responses during donor-multiplexed single-cell RNA sequencing of peripheral blood mononuclear cells
+Global Dynamic Molecular Profiles of Stomatal Lineage Cell Development by Single-Cell RNA Sequencing
+A single-parasite transcriptional atlas of Toxoplasma gondii reveals novel control of antigen expression
+EBF1-deficient bone marrow stroma elicits persistent changes in HSC potential
+Distinct microbial and immune niches of the human colon
+An immune-cell signature of bacterial sepsis
+Spatiotemporal single-cell analysis of gene expression in the mouse suprachiasmatic nucleus
+Single-cell analysis of olfactory neurogenesis and differentiation in adult humans
+Single-cell analyses reveal increased intratumoral heterogeneity after the onset of therapy resistance in small-cell lung cancer
+STAT Signaling Modifies Ascl1 Chromatin Binding and Limits Neural Regeneration from Muller Glia in Adult Mouse Retina
+Single-cell and spatial transcriptomics reveal somitogenesis in gastruloids
+Vascular endothelium–targeted Sirt7 gene therapy rejuvenates blood vessels and extends life span in a Hutchinson-Gilford progeria model
+Meta-analysis of honey bee neurogenomic response links Deformed wing virus type A to precocious behavioral maturation
+A cell atlas of human thymic development defines T cell repertoire formation
+Distinct Mesenchymal Cell Populations Generate the Essential Intestinal BMP Signaling Gradient
+Ascl2-Dependent Cell Dedifferentiation Drives Regeneration of Ablated Intestinal Stem Cells
+Single-cell sperm transcriptomes and variants from fathers of children with and without autism spectrum disorder
+Frontline Science: Cxxc5 expression alters cell cycle and myeloid differentiation of mouse hematopoietic stem and progenitor cells
+Defining the emergence of myeloid-derived suppressor cells in breast cancer using single-cell transcriptomics
+High expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral mucosa
+Targeting the cytoskeleton to direct pancreatic differentiation of human pluripotent stem cells
+Broad immune activation underlies shared set point signatures for vaccine responsiveness in healthy individuals and disease activity in patients with lupus
+Cellular Heterogeneity and Lineage Restriction during Mouse Digit Tip Regeneration at Single-Cell Resolution
+Single-Cell RNA Sequencing Reveals Size-Dependent Effects of Polystyrene Microplastics on Immune and Secretory Cell Populations from Zebrafish Intestines
+The aging skin microenvironment dictates stem cell behavior
+Interferon lambda promotes immune dysregulation and tissue inflammation in TLR7-induced lupus
+Two waves of pro-inflammatory factors are released during the influenza A virus (IAV)-driven pulmonary immunopathogenesis
+Single-cell transcriptomics of blood reveals a natural killer cell subset depletion in tuberculosis
+The landscape of lung bronchoalveolar immune cells in COVID-19 revealed by single-cell RNA sequencing
+In Vitro and In Vivo Development of the Human Airway at Single-Cell Resolution
+Caloric Restriction Reprograms the Single-Cell Transcriptional Landscape of Rattus Norvegicus Aging
+Single cell transcriptomics identifies focal segmental glomerulosclerosis remission endothelial biomarker
+Epithelial Planar Bipolarity Emerges from Notch-Mediated Asymmetric Inhibition of Emx2
+Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex
+Diversification of molecularly defined myenteric neuron classes revealed by single cell RNA-sequencing
+An integrated transcriptomic and epigenomic atlas of mouse primary motor cortex cell types
+Ageing compromises mouse thymus function and remodels epithelial cell differentiation
+Genome-wide CRISPR screen identifies ZIC2 as an essential gene that controls the cell fate of early mesodermal precursors to human heart progenitors
+Identification of region-specific astrocyte subtypes at single cell resolution
+A transcriptomic atlas of the mouse cerebellum reveals regional specializations and novel cell types
+Differentiation reveals the plasticity of age-related change in murine muscle progenitors
+Long-lived T follicular helper cells retain plasticity and help sustain humoral immunity
+Single-Cell Transcriptome Analysis of Mouse Liver Cell-Specific Tropism and Transcriptional Dysregulation Following Intravenous Administration of AAVrh.10 Vectors
+Single nucleus RNASeq profiling of mouse lung: reduced dissociation bias and improved detection of rare cell types compared with single cell RNASeq
+Transcriptional dynamics of hepatic sinusoid‐associated cells after liver injury
+Angiopoietin-2 blockade ameliorates autoimmune neuroinflammation by inhibiting leukocyte recruitment into the CNS
+Complement Signals Determine Opposite Effects of B Cells in Chemotherapy-Induced Immunity
+Functional hypoxia drives neuroplasticity and neurogenesis via brain erythropoietin
+Time-lapse single-cell transcriptomics reveals modulation of histone H3 for dormancy breaking in fission yeast
+Dissecting cellular crosstalk by sequencing physically interacting cells
+PD-L1 engagement on T cells promotes self-tolerance and suppression of neighboring macrophages and effector T cells in cancer
+Single-Cell Analysis of the Muscle Stem Cell Hierarchy Identifies Heterotypic Communication Signals Involved in Skeletal Muscle Regeneration
+MicroRNA-146a regulates immune-related adverse events caused by immune checkpoint inhibitors
+An organoid biobank for childhood kidney cancers that captures disease and tissue heterogeneity
+Differentiated agonistic antibody targeting CD137 eradicates large tumors without hepatotoxicity
+T Cell–Expressed microRNA-155 Reduces Lifespan in a Mouse Model of Age-Related Chronic Inflammation
+Tuning Macrophage Phenotype to Mitigate Skeletal Muscle Fibrosis
+Temporal specificity and heterogeneity of Drosophila immune cells
+Tumor-Derived Retinoic Acid Regulates Intratumoral Monocyte Differentiation to Promote Immune Suppression
+Mass Cytometry and Single‐Cell RNA‐seq Profiling of the Heterogeneity in Human Peripheral Blood Mononuclear Cells Interacting with Silver Nanoparticles
+Sperm Head-Tail Linkage Requires Restriction of Pericentriolar Material to the Proximal Centriole End
+Role of nutrient-driven O-GlcNAc-posttranslational modification in pancreatic exocrine and endocrine islet development
+Single-cell gene profiling and lineage tracing analyses revealed novel mechanisms of endothelial repair by progenitors
+Single‐cell RNA sequencing study of retinal immune regulators identified CD47 and CD59a expression in photoreceptors—Implications in subretinal immune regulation
+Single-cell RNA sequencing reveals a heterogeneous response to Glucocorticoids in breast cancer cells
+Single-cell in vivo imaging of cellular circadian oscillators in zebrafish
+Lymphocyte activation gene (LAG)-3 is associated with mucosal inflammation and disease activity in ulcerative colitis
+Differential encoding in prefrontal cortex projection neuron classes across cognitive tasks
+Sensitive spatial genome wide expression profiling at cellular resolution
+Dissecting the early steps of MLL induced leukaemogenic transformation using a mouse model of AML
+Cardelino: computational integration of somatic clonal substructure and single-cell transcriptomes
+Profiling gene expression in the human dentate gyrus granule cell layer reveals insights into schizophrenia and its genetic risk
+Defining Epidermal Basal Cell States during Skin Homeostasis and Wound Healing Using Single-Cell Transcriptomics
+A Multi-Omics Approach to Liver Diseases: Integration of Single Nuclei Transcriptomics with Proteomics and HiCap Bulk Data in Human Liver
+Sel1L-Hrd1 ER-associated degradation maintains β-cell identity via TGFβ signaling
+Blood single cell immune profiling reveals the interferon-MAPK pathway mediated adaptive immune response for COVID-19
+Loss of the branched-chain amino acid transporter CD98hc alters the development of colonic macrophages in mice
+Single-cell transcriptomic analysis of the adult mouse spinal cord
+"Comparative Molecular Analysis of Cancer Behavior Cultured In Vitro, In Vivo, and Ex Vivo"
+Long-Term Expansion of Pancreatic Islet Organoids from Resident Procr+ Progenitors
+Single-cell transcriptomic analysis of adult mouse pituitary reveals sexual dimorphism and physiologic demand-induced cellular plasticity
+Single-cell profiling reveals an endothelium-mediated immunomodulatory pathway in the eye choroid
+Single-cell transcriptome profiling an adult human cell atlas of 15 major organs
+CD8+ T-cell plasticity regulates vascular regeneration in type-2 diabetes
+DNA methylation disruption reshapes the hematopoietic differentiation landscape
+Integrated single-cell analysis of multicellular immune dynamics during hyperacute HIV-1 infection
+Runx1 negatively regulates inflammatory cytokine production by neutrophils in response to Toll-like receptor signaling
+Cell profiling of mouse acute kidney injury reveals conserved cellular responses to injury
+Chronic Peripheral Inflammation Causes a Region-Specific Myeloid Response in the Central Nervous System
+Platform Effects on Regeneration by Pulmonary Basal Cells as Evaluated by Single-Cell RNA Sequencing
+A conserved dendritic-cell regulatory program limits antitumour immunity
+Construction of a human cell landscape at single-cell level
+The ACE2 expression in human heart indicates new potential mechanism of heart injury among patients infected with SARS-CoV-2
+Dynamic Transcriptional Responses to Injury of Regenerative and Non-regenerative Cardiomyocytes Revealed by Single-Nucleus RNA Sequencing
+Beta Cell Dedifferentiation Induced by IRE1α Deletion Prevents Type 1 Diabetes
+Human iPSC-derived mature microglia retain their identity and functionally integrate in the chimeric mouse brain
+Immune Cell Profiling of COVID-19 Patients in the Recovery Stage by Single-Cell Sequencing
+"Identification of a nerve-associated, lung-resident interstitial macrophage subset with distinct localization and immunoregulatory properties"
+Identification of cell surface markers and establishment of monolayer differentiation to retinal pigment epithelial cells
+Combinatorial single-cell CRISPR screens by direct guide RNA capture and targeted sequencing
+Sestrins induce natural killer function in senescent-like CD8+ T cells
+Identification of a potential mechanism of acute kidney injury during the COVID-19 outbreak: a study based on single-cell transcriptome analysis
+Cortical Neural Stem Cell Lineage Progression Is Regulated by Extrinsic Signaling Molecule Sonic Hedgehog
+Endothelialization of arterial vascular grafts by circulating monocytes
+"Evolution of cellular diversity in primary motor cortex of human, marmoset monkey, and mouse"
+Smooth Muscle Cell Reprogramming in Aortic Aneurysms
+Positive autofeedback regulation of Ptf1a transcription generates the levels of PTF1A required to generate itch circuit neurons
+Molecular characterization of selectively vulnerable neurons in Alzheimer’s Disease
+An Airway Protection Program Revealed by Sweeping Genetic Control of Vagal Afferents
+Defining the Design Principles of Skin Epidermis Postnatal Growth
+Systematic comparison of single-cell and single-nucleus RNA-sequencing methods
+Benchmarking single-cell RNA-sequencing protocols for cell atlas projects
+Integrating GWAS with bulk and single-cell RNA-sequencing reveals a role for LY86 in the anti-Candida host response
+Adverse effects of nicotine on cardiogenic differentiation from human embryonic stem cells detected by single-cell RNA sequencing
+Cell and molecular transitions during efficient dedifferentiation
+Plasma Cell Fate Is Orchestrated by Elaborate Changes in Genome Compartmentalization and Inter-chromosomal Hubs
+"Differentiation Paths of Peyer’s Patch LysoDCs Are Linked to Sampling Site Positioning, Migration, and T Cell Priming"
+Insights into Gonadal Sex Differentiation Provided by Single-Cell Transcriptomics in the Chicken Embryo
+A Targeted Multi-omic Analysis Approach Measures Protein Expression and Low-Abundance Transcripts on the Single-Cell Level
+Single-Cell RNA Sequencing Maps Endothelial Metabolic Plasticity in Pathological Angiogenesis
+Diversity of peripheral blood human NK cells identified by single-cell RNA sequencing
+Tocilizumab treatment in severe COVID-19 patients attenuates the inflammatory storm incited by monocyte centric immune interactions revealed by single-cell analysis
+Single-cell atlas of a non-human primate reveals new pathogenic mechanisms of COVID-19
+"Profiling peripheral nerve macrophages reveals two macrophage subsets with distinct localization, transcriptome and response to injury"
+Single-cell transcriptomics identifies an effectorness gradient shaping the response of CD4+ T cells to cytokines
+Enhancing WNT Signaling Restores Cortical Neuronal Spine Maturation and Synaptogenesis in Tbr1 Mutants
+Progesterone Receptor Serves the Ovary as a Trigger of Ovulation and a Terminator of Inflammation
+Disentangling Pro-mitotic Signaling during Cell Cycle Progression using Time-Resolved Single-Cell Imaging
+Regenerative Metaplastic Clones in COPD Lung Drive Inflammation and Fibrosis
+Redefining the heterogeneity of peripheral nerve cells in health and autoimmunity
+Patch-Seq Links Single-Cell Transcriptomes to Human Islet Dysfunction in Diabetes
+Single-Cell Analyses Inform Mechanisms of Myeloid-Targeted Therapies in Colon Cancer
+SARS ‐CoV‐2 receptor ACE 2 and TMPRSS 2 are primarily expressed in bronchial transient secretory cells
+Notch signalling drives synovial fibroblast identity and arthritis pathology
+Single-cell transcriptomes of the human skin reveal age-related loss of fibroblast priming
+CCL5 mediates CD40-driven CD4+ T-cell tumor infiltration and immunity
+Single-cell transcriptomic analysis identifies neocortical developmental differences between human and mouse
+Chromatin accessibility dynamics and single cell RNA-Seq reveal new regulators of regeneration in neural progenitors
+Disease-associated astrocytes in Alzheimer’s disease and aging
+Single-cell RNA sequencing reveals the heterogeneity of liver-resident immune cells in human
+Cell atlas of aqueous humor outflow pathways in eyes of humans and four model species provides insight into glaucoma pathogenesis
+Chemogenetic activation of astrocytes in the hippocampus and cortex changes the transcriptome of microglia and other cell types
+Highly parallel and efficient single cell mRNA sequencing with paired picoliter chambers
+Regenerative potential of prostate luminal cells revealed by single-cell analysis
+Single-cell resolution analysis of the human pancreatic ductal progenitor cell niche
+A human single-cell atlas of the Substantia nigra reveals novel cell-specific pathways associated with the genetic risk of Parkinson′s disease and neuropsychiatric disorders.
+Spatiotemporal single-cell RNA sequencing of developing hearts reveals interplay between cellular differentiation and morphogenesis
+Single-cell RNA counting at allele and isoform resolution using Smart-seq3
+Souporcell: robust clustering of single-cell RNA-seq data by genotype without reference genotypes
+Single-cell RNA-seq with spike-in cells enables accurate quantification of cell-specific drug effects in pancreatic islets
+Characterization of the development of the mouse cochlear epithelium at the single cell level
+Single cell transcriptomics identifies stem cell-derived graft composition in a model of Parkinson’s disease
+Expansion Sequencing: Spatially Precise In Situ Transcriptomics in Intact Biological Systems
+"Single-cell-resolution transcriptome map of human, chimpanzee, bonobo, and macaque brains"
+Single-Cell RNA Sequencing to Dissect the Immunological Network of Autoimmune Myocarditis
+Deciphering human macrophage development at single-cell resolution
+Population-scale single-cell RNA-seq profiling across dopaminergic neuron differentiation
+Single-Cell RNA-Seq Analysis Uncovers Distinct Functional Human NKT Cell Sub-Populations in Peripheral Blood
+A Multiplexed Barcodelet Single-Cell RNA-Seq Approach Elucidates Combinatorial Signaling Pathways that Drive ESC Differentiation
+Single-Cell Mapping of Human Brain Cancer Reveals Tumor-Specific Instruction of Tissue-Invading Leukocytes
+Targeted Perturb-seq enables genome-scale genetic screens in single cells
+Single cell profiling of total RNA using Smart-seq-total
+"Molecular, spatial and projection diversity of neurons in primary motor cortex revealed by in situ single-cell transcriptomics"
+"Single-Cell RNA Sequencing of Human, Macaque, and Mouse Testes Uncovers Conserved and Divergent Features of Mammalian Spermatogenesis"
+A single-cell atlas of the peripheral immune response in patients with severe COVID-19
+The changing mouse embryo transcriptome at whole tissue and single-cell resolution
+Single-Cell RNA-Seq Mapping of Human Thymopoiesis Reveals Lineage Specification Trajectories and a Commitment Spectrum in T Cell Development
+Post-surgical adhesions are triggered by calcium-dependent membrane bridges between mesothelial surfaces
+Discovery of CD80 and CD86 as recent activation markers on regulatory T cells by protein-RNA single-cell analysis
+Molecular Pathways of Colon Inflammation Induced by Cancer Immunotherapy
+Integrating single-cell RNA-seq and imaging with SCOPE-seq2
+Single-cell analysis of developing B cells reveals dynamic gene expression networks that govern B cell development and transformation
+ZipSeq: barcoding for real-time mapping of single cell transcriptomes
+Single-cell RNA-seq reveals that glioblastoma recapitulates a normal neurodevelopmental hierarchy
+Single-cell RNA sequencing reveals profibrotic roles of distinct epithelial and mesenchymal lineages in pulmonary fibrosis
+Single-cell RNA-seq reveals ectopic and aberrant lung-resident cell populations in idiopathic pulmonary fibrosis
+Single-Cell Transcriptome Profiling of the Kidney Glomerulus Identifies Key Cell Types and Reactions to Injury
+Immunophenotyping of COVID-19 and influenza highlights the role of type I interferons in development of severe COVID-19
+Single-nucleus RNA-seq2 reveals a functional crosstalk between liver zonation and ploidy
+Analysis of single‐cell RNAseq identifies transitional states of T cells associated with hepatocellular carcinoma
+A single-cell transcriptomic atlas characterizes ageing tissues in the mouse
+Mapping systemic lupus erythematosus heterogeneity at the single-cell level
+Developmental excitation-inhibition imbalance underlying psychoses revealed by single-cell analyses of discordant twins-derived cerebral organoids
+Comprehensive characterization of single cell full-length isoforms in human and mouse with long-read sequencing
+Coupled scRNA-Seq and Intracellular Protein Activity Reveal an Immunosuppressive Role of TREM2 in Cancer
+"Redefining De Novo Gammaherpesvirus Infection Through High-Dimensional, Single-Cell Analysis of Virus and Host"
+Single-Cell RNA Sequencing of the Cynomolgus Macaque Testis Reveals Conserved Transcriptional Profiles during Mammalian Spermatogenesis
